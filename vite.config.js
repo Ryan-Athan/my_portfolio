@@ -12,4 +12,7 @@ export default defineConfig({
       },
     },
   },
-})
+  build: {
+    outDir: 'dist', // Render will look for 'dist' by default
+  },
+});

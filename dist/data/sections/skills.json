@@ -6,16 +6,16 @@
             "title_long": "My **Skill Set**"
         },
 
-        "es": {
-            "title": "Habilidades",
-            "title_long_prefix": "Explora",
-            "title_long": "Mis **Habilidades**"
+        "my": {
+            "title": "အရည်အချင်း",
+            "title_long_prefix": "ဒါကတော့",
+            "title_long": "ကျွန်တာ်ရဲ့ **ကျွမ်းကျင်မူ skills တွေပါ။**"
         },
 
-        "fr": {
-            "title": "Capacités",
-            "title_long_prefix": "Explorez",
-            "title_long": "Mes **Compétences**"
+        "ja": {
+            "title": "資格",
+            "title_long_prefix": "これは",
+            "title_long": "私の**スキル**です。"
         },
 
         "ko": {
@@ -44,13 +44,13 @@
                             "title": "**Website** design",
                             "text": "I can bring your best ideas into life!"
                         },
-                        "es": {
-                            "title": "Diseño de **sitios web**",
-                            "text": "¡Puedo hacer realidad tus mejores ideas!"
+                        "my": {
+                            "title": "**Website** design",
+                            "text": "ကျွန်တော်က website design ကို idea ကောင်းကောင်းနှင့် ဖန်းတီးရေးဆွဲနိုင်ပါတယ်။"
                         },
-                        "fr": {
-                            "title": "Conception de **sites web**",
-                            "text": "Je peux donner vie à vos meilleures idées !"
+                        "ja": {
+                            "title": "**ウェブサイト**デザイン",
+                            "text": "あなたの最高のアイデアを形にします！"
                         },
                         "ko": {
                             "title": "**웹사이트** 디자인",
@@ -70,13 +70,13 @@
                             "title": "**Database** management",
                             "text": "I can handle your data effectively!"
                         },
-                        "es": {
-                            "title": "Gestión de **bases de datos**",
-                            "text": "¡Puedo gestionar tus datos de manera eficaz!"
+                        "my": {
+                            "title": "**Database** စီမံခန့်ခွဲခြင်း",
+                            "text": "ကျွန်တော်က data တွေကို ကောင်းကောင်း ကိုင်တွယ်ဖြေရှင်းနိုင်ပါတယ်။"
                         },
-                        "fr": {
-                            "title": "Gestion de **bases de données**",
-                            "text": "Je peux gérer vos données efficacement !"
+                        "ja": {
+                            "title": "**データベース**管理",
+                            "text": "データを効率的に管理できます！"
                         },
                         "ko": {
                             "title": "**데이터베이스** 관리",
@@ -93,72 +93,20 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**App** creation",
-                            "text": "I can make creative and innovative apps!"
+                            "title": "**Website** building & **Web App** development",
+                            "text": "I can create responsive websites and powerful web applications!"
                         },
-                        "es": {
-                            "title": "Creación de **aplicaciones**",
-                            "text": "¡Puedo crear aplicaciones creativas e innovadoras!"
+                        "my": {
+                            "title": "**Website** ဖန်တီးခြင်းနှင့် **Web App** တီထွင်ခြင်း",
+                            "text": "ကျွန်တော် responsive ဝက်ဘ်ဆိုဒ်များနှင့် web applications တွေ ဖန်တီးပေးနိုင်ပါတယ်!"
                         },
-                        "fr": {
-                            "title": "Création d'**applications**",
-                            "text": "Je peux créer des applications créatives et innovantes !"
+                        "ja": {
+                            "title": "**ウェブサイト**作成と**Webアプリ**開発",
+                            "text": "レスポンシブなウェブサイトと強力なWebアプリを作成できます！"
                         },
                         "ko": {
                             "title": "**앱** 제작",
                             "text": "창의적이고 혁신적인 앱을 만들 수 있습니다!"
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-window-restore",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "REST **APIs**",
-                            "text": "I can build API services!"
-                        },
-                        "es": {
-                            "title": "APIs **REST**",
-                            "text": "¡Puedo crear servicios API!"
-                        },
-                        "fr": {
-                            "title": "APIs **REST**",
-                            "text": "Je peux créer des services API !"
-                        },
-                        "ko": {
-                            "title": "REST **API**",
-                            "text": "API 서비스를 구축할 수 있습니다!"
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-lock",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Information **Security**",
-                            "text": "Security is my middle name!"
-                        },
-                        "es": {
-                            "title": "**Seguridad** de la información",
-                            "text": "¡La seguridad es mi segundo nombre!"
-                        },
-                        "fr": {
-                            "title": "**Sécurité** de l'information",
-                            "text": "La sécurité est mon deuxième prénom !"
-                        },
-                        "ko": {
-                            "title": "정보 **보안**",
-                            "text": "보안은 제 전문 분야입니다!"
                         }
                     }
                 }
@@ -195,23 +143,6 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-java",
-                        "faColors": {"bg": "#007396", "fill": "#EEE"}
-                    },
-                    "value": 90,
-                    "dates": {
-                        "start": "03/10/2019"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Java 11+",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
                         "fa": "fa-brands fa-python",
                         "faColors": {"bg": "#306998", "fill": "#EEE"}
                     },
@@ -222,23 +153,6 @@
                     "locales": {
                         "en": {
                             "title": "Python 3.x",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-gem",
-                        "faColors": {"bg": "#CC0000", "fill": "#EEE"}
-                    },
-                    "value": 80,
-                    "dates": {
-                        "start": "08/30/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Ruby on Rails",
                             "info": null
                         }
                     }
@@ -297,7 +211,7 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-life-ring",
+                        "fa": "fa-brands fa-laravel",
                         "faColors": {"bg": "#326CE5", "fill": "#EEE"}
                     },
                     "value": 80,
@@ -306,7 +220,7 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Kubernetes",
+                            "title": "Laravel",
                             "info": null
                         }
                     }
@@ -468,8 +382,8 @@
             "config": {},
             "locales": {
                 "en": { "title": "Languages" },
-                "es": { "title": "Idiomas" },
-                "fr": { "title": "Langues" },
+                "my": { "title": "Languages" },
+                "ja": { "title": "言語" },
                 "ko": { "title": "언어" }
             },
 
@@ -485,18 +399,18 @@
                     "locales": {
                         "en": {
                             "title": "English",
-                            "info": "Native speaker with excellent communication and writing skills.",
-                            "tags": ["Native"]
+                            "info": "Fluent in both spoken and written French; confident in professional communication.",
+                            "tags": ["Upper Intermediate Level"]
                         },
-                        "es": {
-                            "title": "Inglés",
-                            "info": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
-                            "tags": ["Nativo"]
+                        "my": {
+                            "title": "အင်္ဂလိပ်ဘာသာစကား",
+                            "info": "အင်္ဂလိပ် ဘာသာစကားကို ကောင်းကောင်း ရေးနိုင်, ဖတ်နိုင်, ပြောနိုင်ပါတယ်။",
+                            "tags": ["Upper Intermediate Level"]
                         },
-                        "fr": {
-                            "title": "Anglais",
-                            "info": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
-                            "tags": ["Natif"]
+                        "ja": {
+                            "title": "英語",
+                            "info": "英語を上手に読む、書く、話すことができます。",
+                            "tags": ["中上級レベル"]
                         },
                         "ko": {
                             "title": "영어",
@@ -508,7 +422,7 @@
 
                 {
                     "icon": {
-                        "img": "images/flags/fr.png",
+                        "img": "images/flags/my.png",
                         "fa": null,
                         "faColors": { "bg": null, "fill": null }
                     },
@@ -516,19 +430,19 @@
                     "dates": { "start": null },
                     "locales": {
                         "en": {
-                            "title": "French",
-                            "info": "Fluent in both spoken and written French; confident in professional communication.",
-                            "tags": ["Fluent"]
+                            "title": "Myanmar(Burmese)",
+                            "info": "Native speaker with excellent communication and writing skills.",
+                            "tags": ["Native"]
                         },
-                        "es": {
-                            "title": "Francés",
-                            "info": "Fluido en francés hablado y escrito; seguro en la comunicación profesional.",
-                            "tags": ["Fluido"]
+                        "my": {
+                            "title": "မြန်မာ(ဗမာ)",
+                            "info": "မြန်မာဘာသာစကားကို ကောင်းစွာ ဆက်သွယ်ရေးနှင့် စာရေးကျွမ်းကျင်မှုနှင့်တူ ပြောနိုင်သူ။",
+                            "tags": ["Native"]
                         },
-                        "fr": {
-                            "title": "Français",
-                            "info": "Fluent à l'oral et à l'écrit; confiant dans la communication professionnelle.",
-                            "tags": ["Courant"]
+                        "ja": {
+                            "title": "ミャンマー語（ビルマ語)",
+                            "info": "ネイティブスピーカーで、優れたコミュニケーション力と文章力を持っています。",
+                            "tags": ["Native"]
                         },
                         "ko": {
                             "title": "프랑스어",
@@ -540,7 +454,7 @@
 
                 {
                     "icon": {
-                        "img": "images/flags/vn.png",
+                        "img": "images/flags/ja.png",
                         "fa": null,
                         "faColors": { "bg": null, "fill": null }
                     },
@@ -548,56 +462,24 @@
                     "dates": { "start": null },
                     "locales": {
                         "en": {
-                            "title": "Vietnamese",
-                            "info": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text.",
+                            "title": "Japanese",
+                            "info": "Intermediate proficiency in Japanese language; can hold conversations and understand written text.",
                             "tags": ["Intermediate"]
                         },
-                        "es": {
-                            "title": "Vietnamita",
-                            "info": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y entender textos escritos.",
-                            "tags": ["Intermedio"]
+                        "my": {
+                            "title": "ဂျပန်ဘာသာစကား",
+                            "info": "ဂျပန်ဘာသာစကားကို အလယ်အလတ်အဆင့် ကျွမ်းကျင်ပြီး စကားပြောနှင့် စာဖတ်နားလည်မှု အတတ်ရသည်။",
+                            "tags": ["Intermediate"]
                         },
-                        "fr": {
-                            "title": "Vietnamien",
-                            "info": "Compétence intermédiaire en vietnamien; peut tenir des conversations et comprendre des textes écrits.",
-                            "tags": ["Intermédiaire"]
+                        "ja": {
+                            "title": "日本語",
+                            "info": "日本語に中級レベルの能力があり、会話をしたり文章を理解することができます。",
+                            "tags": ["Intermediate"]
                         },
                         "ko": {
                             "title": "베트남어",
                             "info": "중간 수준의 베트남어 실력; 대화 가능 및 글을 이해할 수 있음.",
                             "tags": ["중급"]
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": "images/flags/ko.png",
-                        "fa": null,
-                        "faColors": { "bg": null, "fill": null }
-                    },
-                    "value": null,
-                    "dates": { "start": null },
-                    "locales": {
-                        "en": {
-                            "title": "Korean",
-                            "info": "Basic understanding of Korean; learning and improving.",
-                            "tags": ["Basic"]
-                        },
-                        "es": {
-                            "title": "Coreano",
-                            "info": "Comprensión básica del coreano; aprendiendo y mejorando.",
-                            "tags": ["Básico"]
-                        },
-                        "fr": {
-                            "title": "Coréen",
-                            "info": "Compréhension de base du coréen; en apprentissage et amélioration.",
-                            "tags": ["Basique"]
-                        },
-                        "ko": {
-                            "title": "한국어",
-                            "info": "기초적인 한국어 이해; 배우는 중이며 향상 중.",
-                            "tags": ["기초"]
                         }
                     }
                 }

@@ -6,16 +6,16 @@
             "title_long": "**Work** Experience"
         },
 
-        "es": {
-            "title": "Experiencia",
-            "title_long_prefix": "Resumen de mi",
-            "title_long": "Experiencia **Laboral**"
+        "my": {
+            "title": "အတွေ့အကြုံ",
+            "title_long_prefix": "ဒါတွေကတော့ ကျွန်တော်ရဲ့",
+            "title_long": "လက်ရှိလုပ်နေသော **လုပ်ငန်းအတွေ့အကြုံတွေပဲ** ဖြစ်ပါတယ်။"
         },
 
-        "fr": {
-            "title": "Expérience",
-            "title_long_prefix": "Résumé de mon",
-            "title_long": "Parcours **Professionel**"
+        "ja": {
+            "title": "経験",
+            "title_long_prefix": "私のまとめ",
+            "title_long": "**実務経験**"
         },
 
         "ko": {
@@ -45,22 +45,22 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Backend** Developer",
-                            "info": "Sapphire Studio",
-                            "text": "Developed and maintained scalable backend systems for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
-                            "tags": ["PHP", "MySQL", "Laravel"]
+                            "title": "**Full Stack Web Developer Intern**",
+                            "info": "DLT",
+                            "text": "Assisted in designing and developing scalable web applications, integrating frontend and backend technologies to enhance user experiences. Supported database optimization, implemented RESTful APIs, and contributed to responsive design for cross-platform compatibility.",
+                            "tags": ["PHP", "MySQL", "Laravel", "JavaScript", "React"]
                         },
-                        "es": {
-                            "title": "Desarrollador **Backend**",
-                            "info": "Sapphire Studio",
-                            "text": "Desarrollé y mantuve sistemas backend escalables para varios clientes, optimizando el rendimiento de la base de datos e implementando APIs RESTful para mejorar la funcionalidad de la aplicación.",
-                            "tags": null
+                        "my": {
+                            "title": "**Full Stack Web Developer Intern**",
+                            "info": "DLT",
+                            "text": "အသုံးပြုသူအတွေ့အကြုံများကို မြှင့်တင်ရန်အတွက် ရှေ့တန်းနှင့် နောက်ခံနည်းပညာများကို ပေါင်းစပ်၍ အရွယ်အစားကြီးနိုင်သော ဝဘ်အက်ပ်လီကေးရှင်းများကို ဒီဇိုင်းရေးဆွဲခြင်းနှင့် တီထွင်ခြင်းတွင် ကူညီပေးခဲ့သည်။ ပံ့ပိုးထားသော ဒေတာဘေ့စ်ကို ပိုမိုကောင်းမွန်အောင်ပြုလုပ်ခြင်း၊ RESTful APIs များကို အကောင်အထည်ဖော်ပြီး cross-platform လိုက်ဖက်ညီမှုအတွက် တုံ့ပြန်မှုပုံစံအတွက် ပံ့ပိုးပေးပါသည်။",
+                            "tags": ["PHP", "MySQL", "Laravel", "JavaScript", "React"]
                         },
-                        "fr": {
-                            "title": "Développeur **Backend**",
-                            "info": "Sapphire Studio",
-                            "text": "Développé et maintenu des systèmes backend évolutifs pour divers clients, optimisant les performances de la base de données et implémentant des APIs RESTful pour améliorer la fonctionnalité de l'application.",
-                            "tags": null
+                        "ja": {
+                            "title": "**フルスタックウェブデベロッパーインターン**",
+                            "info": "DLT",
+                            "text": "スケーラブルなWebアプリケーションの設計と開発を支援し、フロントエンドとバックエンドの技術を統合してユーザー体験を向上させました。データベースの最適化をサポートし、RESTful APIを実装し、クロスプラットフォーム対応のレスポンシブデザインに貢献しました。",
+                            "tags": ["PHP", "MySQL", "Laravel", "JavaScript", "React"]
                         },
                         "ko": {
                             "title": "**백엔드** 개발자",
@@ -82,22 +82,22 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Full-Stack** Engineer",
-                            "info": "Coursera",
-                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
-                            "tags": ["JavaScript", "React", "Node.js", "PHP", "REST", "Docker"]
+                            "title": "**Python Developer Intern**",
+                            "info": "DLT",
+                            "text": "Contributed to the development and maintenance of Python-based applications, implementing efficient algorithms and optimizing code performance. Assisted in developing RESTful APIs, integrating third-party libraries, and performing data analysis to support project objectives.",
+                            "tags": ["Python", "Django", "Flask", "REST API", "Pandas"]
                         },
-                        "es": {
-                            "title": "Ingeniero **Full-Stack**",
-                            "info": "Coursera",
-                            "text": "Participé en la mejora del sitio web de Coursera al implementar nuevas funcionalidades y optimizar la experiencia del usuario, utilizando tecnologías de frontend y backend para asegurar un funcionamiento sin problemas.",
-                            "tags": null
+                        "my": {
+                            "title": "**Python Developer Intern**",
+                            "info": "DLT",
+                            "text": "Python-based အပလီကေးရှင်းများ၏ ဖွံ့ဖြိုးတိုးတက်မှုနှင့် ထိန်းသိမ်းမှု၊ ထိရောက်သော အယ်လဂိုရီသမ်များကို အကောင်အထည်ဖော်ခြင်းနှင့် ကုဒ်စွမ်းဆောင်ရည်ကို ပိုကောင်းအောင်လုပ်ဆောင်ခြင်းတို့တွင် ပံ့ပိုးကူညီခဲ့သည်။ RESTful APIs များ ရေးဆွဲခြင်း၊ ပြင်ပအဖွဲ့အစည်း စာကြည့်တိုက်များ ပေါင်းစပ်ခြင်းနှင့် ပရောဂျက် ရည်မှန်းချက်များကို ပံ့ပိုးရန်အတွက် ဒေတာခွဲခြမ်းစိတ်ဖြာခြင်းများ လုပ်ဆောင်ရာတွင် ကူညီပေးခဲ့ပါသည်။",
+                            "tags": ["Python", "Django", "Flask", "REST API", "Pandas"]
                         },
-                        "fr": {
-                            "title": "Ingénieur **Full-Stack**",
-                            "info": "Coursera",
-                            "text": "J'ai contribué à l'amélioration du site Web de Coursera en ajoutant de nouvelles fonctionnalités et en optimisant l'expérience utilisateur, en utilisant des technologies frontend et backend pour garantir un fonctionnement fluide.",
-                            "tags": null
+                        "ja": {
+                            "title": "**Pythonデベロッパーインターン**",
+                            "info": "DLT",
+                            "text": "Pythonベースのアプリケーションの開発と保守に貢献し、効率的なアルゴリズムを実装し、コードパフォーマンスを最適化しました。RESTful APIの開発を支援し、サードパーティライブラリを統合し、プロジェクトの目標を支えるためのデータ分析を実施しました。",
+                            "tags": ["Python", "Django", "Flask", "REST API", "Pandas"]
                         },
                         "ko": {
                             "title": "**풀스택** 엔지니어",
@@ -119,22 +119,22 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Backend** Engineer",
-                            "info": "Adobe Inc.",
-                            "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
-                            "tags": ["Java", "AWS", "REST", "Docker"]
+                            "title": "**PHP Developer Intern**",
+                            "info": "DLT",
+                            "text": "Assisted in developing and maintaining PHP-based web applications, focusing on creating efficient backend logic and enhancing application performance. Contributed to the development of RESTful APIs, optimized database queries, and integrated third-party services to meet client requirements.",
+                            "tags": ["PHP", "Laravel", "CodeIgniter", "MySQL", "REST API"]
                         },
-                        "es": {
-                            "title": "Ingeniero **Backend**",
-                            "info": "Adobe Inc.",
-                            "text": "Contribuí al desarrollo de sistemas backend robustos para Adobe Creative Cloud, integrando servicios de terceros y mejorando la eficiencia en el procesamiento de datos mediante funciones en la nube.",
-                            "tags": null
+                        "my": {
+                            "title": "**PHP Developer Intern**",
+                            "info": "DLT",
+                            "text": "ထိရောက်သော backend logic ဖန်တီးခြင်းနှင့် အပလီကေးရှင်းစွမ်းဆောင်ရည်ကို မြှင့်တင်ခြင်းတို့ကို အာရုံစိုက်ကာ PHP-based web applications များကို ပြုစုထိန်းသိမ်းရာတွင် ကူညီပေးခဲ့ပါသည်။ RESTful APIs များ ဖွံ့ဖြိုးတိုးတက်မှု၊ ပိုမိုကောင်းမွန်အောင်ပြုလုပ်ထားသော ဒေတာဘေ့စ်မေးမြန်းချက်များနှင့် သုံးစွဲသူများ၏ လိုအပ်ချက်များနှင့် ကိုက်ညီစေရန် ပေါင်းစပ်ပြင်ပမှ ဝန်ဆောင်မှုများကို ပံ့ပိုးပေးပါသည်။",
+                            "tags": ["PHP", "Laravel", "CodeIgniter", "MySQL", "REST API"]
                         },
-                        "fr": {
-                            "title": "Ingénieur **Backend**",
-                            "info": "Adobe Inc.",
-                            "text": "J'ai contribué au développement de systèmes backend solides pour Adobe Creative Cloud, intégrant des services tiers et améliorant l'efficacité du traitement des données grâce aux fonctions cloud.",
-                            "tags": null
+                        "ja": {
+                            "title": "**PHPデベロッパーインターン**",
+                            "info": "DLT",
+                            "text": "PHPベースのWebアプリケーションの開発と保守を支援し、効率的なバックエンドロジックの作成とアプリケーションパフォーマンスの向上に注力しました。RESTful APIの開発に貢献し、データベースクエリを最適化し、クライアントの要件を満たすためにサードパーティサービスを統合しました。",
+                            "tags": ["PHP", "Laravel", "CodeIgniter", "MySQL", "REST API"]
                         },
                         "ko": {
                             "title": "**백엔드** 엔지니어",
@@ -156,22 +156,22 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Senior Backend** Developer",
-                            "info": "Apple Inc.",
-                            "text": "<p>Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:</p> <ul><li>Security</li><li>Scalability to handle millions of users globally</li><li>Developing RESTful APIs</li><li>Optimizing database performance with PostgreSQL</li><li>Building services with Swift, PHP, and GraphQL</li></ul> <p class='mt-3'>Together, we ensure Apple's backend infrastructure stays robust and efficient.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "title": "**Junior JavaScript Developer**",
+                            "info": "Intership",
+                            "text": "<p>Supported the development of modern web applications, focusing on:</p> <ul><li>Building responsive and dynamic user interfaces using React and Vue.js</li><li>Writing clean and maintainable JavaScript code</li><li>Collaborating with backend developers to ensure seamless API integration</li><li>Debugging and troubleshooting frontend issues</li><li>Contributing to performance optimization and code reviews</li></ul> <p class='mt-3'>Gained hands-on experience in building user-centric web applications in a collaborative environment.</p>",
+                            "tags": ["JavaScript", "React", "Vue.js", "HTML", "CSS"]
                         },
-                        "es": {
-                            "title": "Desarrollador **Backend Senior**",
-                            "info": "Apple Inc.",
-                            "text": "<p>Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:</p> <ul><li>Seguridad</li><li>Escalabilidad para manejar millones de usuarios a nivel global</li><li>Desarrollar APIs RESTful</li><li>Optimizar el rendimiento de bases de datos con PostgreSQL</li><li>Construcción de servicios con Swift, PHP y GraphQL</li></ul> <p class='mt-3'>Juntos, aseguramos que la infraestructura backend de Apple se mantenga robusta y eficiente.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        "my": {
+                            "title": "**Junior JavaScript Developer**",
+                            "info": "Intership",
+                            "text": "<p>ခေတ်မီဝဘ်အက်ပလီကေးရှင်းများ ဖွံ့ဖြိုးတိုးတက်ရေးကို ပံ့ပိုးပေးထားပြီး၊</p> <ul><li>React နှင့် Vue.js ကို အသုံးပြု၍ တုံ့ပြန်မှုနှင့် တက်ကြွသော အသုံးပြုသူ အင်တာဖေ့စ်များကို တည်ဆောက်ခြင်း။</li><li>သန့်ရှင်းပြီး ထိန်းသိမ်းနိုင်သော JavaScript ကုဒ်ကို ရေးသားခြင်း။</li><li>ချောမွေ့သော API ပေါင်းစပ်မှုကို သေချာစေရန် backend developer များနှင့် ပူးပေါင်းဆောင်ရွက်ခြင်း</li><li>အမှားရှာပြင်ခြင်းနှင့် ရှေ့တန်းပြဿနာများကို ဖြေရှင်းခြင်း။</li><li>စွမ်းဆောင်ရည် ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ခြင်း နှင့် ကုဒ်ပြန်လည်သုံးသပ်ခြင်းများတွင် ပါဝင်ကူညီခြင်း။</li></ul> <p class='mt-3'>ပူးပေါင်းဆောင်ရွက်သော ပတ်ဝန်းကျင်တွင် အသုံးပြုသူဗဟိုပြု ဝဘ်အက်ပလီကေးရှင်းများ တည်ဆောက်ရာတွင် လက်ဆင့်ကမ်း အတွေ့အကြုံ ရရှိခဲ့သည်။</p>",
+                            "tags": ["JavaScript", "React", "Vue.js", "HTML", "CSS"]
                         },
-                        "fr": {
-                            "title": "Développeur **Backend Senior**",
-                            "info": "Apple Inc.",
-                            "text": "<p>Dirigeant une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services d'Apple, en se concentrant sur:</p> <ul><li>Sécurité</li><li>Scalabilité pour gérer des millions d'utilisateurs dans le monde</li><li>Développement d'APIs RESTful</li><li>Optimisation des performances des bases de données avec PostgreSQL</li><li>Création de services avec Swift, PHP et GraphQL</li></ul> <p class='mt-3'>Ensemble, nous assurons que l'infrastructure backend d'Apple reste robuste et efficace.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        "ja": {
+                            "title": "**ジュニアJavaScriptデベロッパー**",
+                            "info": "Intership",
+                            "text": "<p>モダンなWebアプリケーションの開発をサポートし、以下に注力しました:</p> <ul><li>ReactやVue.jsを使用したレスポンシブで動的なユーザーインターフェースの構築</li><li>クリーンでメンテナンス可能なJavaScriptコードの記述</li><li>バックエンドデベロッパーと連携し、シームレスなAPI統合を実現</li><li>フロントエンドの問題のデバッグとトラブルシューティング</li><li>パフォーマンス最適化とコードレビューへの貢献</li></ul> <p class='mt-3'>コラボレーション環境でユーザー中心のWebアプリケーションの構築における実践的な経験を積みました。</p>",
+                            "tags": ["JavaScript", "React", "Vue.js", "HTML", "CSS"]
                         },
                         "ko": {
                             "title": "**수석 백엔드** 개발자",

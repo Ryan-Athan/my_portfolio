@@ -4,21 +4,21 @@
             "title": "Welcome!",
             "title_menu": "About me",
             "title_long_prefix": "Hello...",
-            "title_long": "I'm **Mark Choi!**"
+            "title_long": "I'm **Ryan Athan!**"
         },
 
-        "es": {
-            "title": "¡Saludos!",
-            "title_menu": "Sobre mí",
-            "title_long_prefix": "Hola...",
-            "title_long": "Soy **Mark Choi!**"
+        "my": {
+            "title": "ကြိုဆိုပါတယ်",
+            "title_menu": "ကျွန်တာ်အကြောင်း",
+            "title_long_prefix": "မင်္ဂလာပါ...",
+            "title_long": "ကျွန်တော်နာမည်ကတော့ **မောင်သားညီဖြိုး** ဖြစ်ပါတယ်ဗျ။"
         },
 
-        "fr": {
-            "title": "Salut !",
-            "title_menu": "À propos",
-            "title_long_prefix": "Salut...",
-            "title_long": "Je suis **Mark Choi!**"
+        "ja": {
+            "title": "ようこそ",
+            "title_menu": "私について紹介します",
+            "title_long_prefix": "こんにちは...",
+            "title_long": "私の名前は**マウン・ター・ニー・ピョー**です。"
         },
 
         "ko": {
@@ -46,7 +46,7 @@
 
             "items": [
                 {
-                    "value": "Cupertino – CA",
+                    "value": "Nay Pyi Taw – Myanmar",
                     "links": [
                         {"href": null}
                     ],
@@ -57,9 +57,9 @@
                     }
                 },
                 {
-                    "value": "mark.choi@dev.com",
+                    "value": "ryanathan10@gmail.com",
                     "links": [
-                        {"href": "mailto:mark.choi@dev.com"}
+                        {"href": "mailto:ryanathan10@gmail.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -68,9 +68,9 @@
                     }
                 },
                 {
-                    "value": "@ryanbalieiro",
+                    "value": "@ryanathan",
                     "links": [
-                        {"href": "https://github.com/ryanbalieiro"}
+                        {"href": "https://github.com/Ryan-Athan"}
                     ],
                     "icon": {
                         "img": null,
@@ -87,8 +87,8 @@
             "config": {},
             "locales": {
                 "en": {"title": "**A little bit** about me..."},
-                "es": {"title": "**Un poco** sobre mí..."},
-                "fr": {"title": "**Un peu** à propos de moi..."},
+                "my": {"title": "**ကျွန်တော်အကြောင်း** အနည်းငယ်မိတ်ဆက်ပေးပါရစေ.... "},
+                "ja": {"title": "**私について** 少し紹介させていただきます..."},
                 "ko": {"title": "저에 **대해 조금**..."}
             },
 
@@ -100,144 +100,13 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"text": "<p>I’m a PHP developer with <b>over a decade</b> of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"},
-                        "es": {"text": "<p>Soy un desarrollador de PHP con <b>más de una década</b> de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos.</p><p>¡Espero con interés colaborar <b>contigo!</b></p>"},
-                        "fr": {"text": "<p>Je suis développeur PHP avec <b>plus d'une décennie</b> d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets.</p><p>Je suis impatient de collaborer <b>avec vous !</b></p>"},
+                        "en": {"text": "<p>I’m a passionate web developer with expertise in backend development using PHP and Laravel, combined with frontend skills in HTML, CSS, Bootstrap, and Tailwind CSS. I also have hands-on experience with C++ and enjoy building dynamic, user-friendly applications.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"},
+
+                        "my": {"text": "<p>ကျွန်တော်ကတော့ Backend Development အတွက် PHP နှင့် Laravel တို့ကို အသုံးပြုသော web developer တစ်ဦးဖြစ်ပြီးတော့ HTML, CSS, Bootstrap, Tailwind CSS တို့ဖြင့် Frontend Development လည်းကျွမ်းကျင်ပါတယ်။ C++ ကိုလည်း အတွေ့အကြုံရှိပြီး user-friendly application များကို တီထွင်ဖန်တီးတာကိုနှစ်သက်ပါတယ်။</p><p>ကျွန်တော်၏ တီထွင်ဖန်တီးမှုနှင့် ထိရောက်မှုကြောင့် အမျိုးမျိုးသော project များအတွက် အလိုက်ဖက်ဆုံး ဖြေရှင်းချက်များကို ဖန်တီးနိုင်ပါသည်။</p><p>အဖွဲ့အစည်းများနှင့် ပူးပေါင်းဆောင်ရွက်ဖို့လည်း စောင့်မျှော်နေပါတယ်!</p>"},
+
+                        "ja": {"text": "<p>私はPHPとLaravelを使用したバックエンド開発を専門とするWeb開発者であり、HTML、CSS、Bootstrap、Tailwind CSSを使用したフロントエンド開発にも精通しています。 また、C++の経験があり、使いやすいアプリケーションの構築を楽しんでいます。</p><p>多様なスキルセットにより、さまざまなプロジェクトのニーズに柔軟に対応できます。</p><p>ぜひ一緒に素晴らしいプロジェクトを作りましょう！</p>"},
+
                         "ko": {"text": "<p>저는 백엔드 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 <b>10년 이상의</b> 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다.</p><p><b>당신과 협업</b>하기를 기대하고 있습니다!</p>"}
-                    }
-                }
-            ]
-        },
-
-        {
-            "id": "testimonials",
-            "component": "ArticleTestimonials",
-            "config": {},
-            "locales": {
-                "en": {"title": "Client **testimonials**"},
-                "es": {"title": "Testimonios de **clientes**"},
-                "fr": {"title": "Témoignages de **clients**"},
-                "ko": {"title": "**고객** 추천사"}
-            },
-
-            "items": [
-                {
-                    "value": "Anita Bath",
-                    "links": [
-                        {"href": "https://linkedin.com"}
-                    ],
-                    "icon": {
-                        "img": "images/pictures/person-1.png",
-                        "fa": "fa-solid fa-user",
-                        "faColors": null
-                    },
-                    "locales": {
-                        "en": {
-                            "info": "CEO at <b>SalesForce</b>",
-                            "text": "Working with Mark was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
-                        },
-                        "es": {
-                            "info": "CEO en <b>SalesForce</b>",
-                            "text": "Trabajar con Mark fue una experiencia transformadora. Sus habilidades de programación y dedicación no solo mejoraron nuestro proyecto, sino que también inspiraron a todo el equipo."
-                        },
-                        "fr": {
-                            "info": "PDG de <b>SalesForce</b>",
-                            "text": "Travailler avec Mark a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
-                        },
-                        "ko": {
-                            "info": "세일즈포스  CEO",
-                            "text": "Mark와의 협업은 변화를 가져오는 경험이었습니다. 그의 프로그래밍 기술과 헌신은 우리 프로젝트를 개선할 뿐만 아니라 팀 전체에 영감을 주었습니다."
-                        }
-                    }
-                },
-
-                {
-                    "value": "Lou Natic",
-                    "links": [
-                        {"href": "https://github.com"}
-                    ],
-                    "icon": {
-                        "img": "images/pictures/person-3.png",
-                        "fa": null,
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {
-                            "info": "Lead Developer at <b>GitHub</b>",
-                            "text": "Having Mark on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
-                        },
-                        "es": {
-                            "info": "Desarrollador Principal en <b>GitHub </b>",
-                            "text": "Tener a Mark en nuestro equipo fue un activo invaluable. Sus profundas ideas sobre programación y su mentoría no solo elevaron nuestros proyectos, sino que también nos empoderaron para enfrentar cada desafío con confianza."
-                        },
-                        "fr": {
-                            "info": "Développeur Principal chez <b>GitHub </b>",
-                            "text": "Avoir Mark dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
-                        },
-                        "ko": {
-                            "info": "<b>GitHub</b> 수석 개발자",
-                            "text": "우리 팀에 Mark가 있다는 것은 귀중한 자산이었습니다. 그의 깊은 프로그래밍 통찰력과 멘토링은 우리의 프로젝트를 높이고 모든 도전에 자신감과 창의성으로 대응할 수 있게 해주었습니다."
-                        }
-                    }
-                },
-
-                {
-                    "value": "Paige Turner",
-                    "links": [
-                        {"href": null}
-                    ],
-                    "icon": {
-                        "img": "images/pictures/person-2.png",
-                        "fa": null,
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {
-                            "info": "Managing Director at <b>Dingga</b>",
-                            "text": "Collaborating with Mark was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
-                        },
-                        "es": {
-                            "info": "Directora General en <b>Dingga</b>",
-                            "text": "Colaborar con Mark fue un cambio de juego para nuestro proceso de desarrollo. Su experiencia y habilidades para resolver problemas fueron invaluables para nuestro éxito."
-                        },
-                        "fr": {
-                            "info": "Directrice Générale chez <b>Dingga</b>",
-                            "text": "Collaborer avec Mark a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
-                        },
-                        "ko": {
-                            "info": "딩가 전무이사",
-                            "text": "Mark와의 협업은 우리의 개발 프로세스에 혁신을 가져왔습니다. 그의 전문성과 문제 해결 능력은 우리의 성공에 없어서는 안 될 요소였습니다."
-                        }
-                    }
-                },
-
-                {
-                    "value": "Chris P. Bacon",
-                    "links": [
-                        {"href": "https://dribbble.com"}
-                    ],
-                    "icon": {
-                        "img": "images/pictures/person-4.png",
-                        "fa": null,
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {
-                            "info": "Creative Director at <b>Dribbble</b>",
-                            "text": "Mark's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
-                        },
-                        "es": {
-                            "info": "Directora Creativa en <b>Dribbble</b>",
-                            "text": "La atención al detalle de Mark y su pensamiento innovador aportaron una nueva perspectiva a nuestro proceso de diseño. Realmente elevó el trabajo de nuestro equipo y nos ayudó a ofrecer resultados más allá de lo esperado."
-                        },
-                        "fr": {
-                            "info": "Directrice Créative chez <b>Dribbble</b>",
-                            "text": "L'attention aux détails de Mark et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
-                        },
-                        "ko": {
-                            "info": "<b>Dribbble</b> 크리에이티브 디렉터",
-                            "text": "Mark의 세부 사항에 대한 주의와 혁신적인 사고는 우리 디자인 프로세스에 신선한 관점을 제공했습니다. 그는 팀의 작업을 향상시키고 기대 이상의 결과를 제공하는 데 큰 도움을 주었습니다."
-                        }
                     }
                 }
             ]
@@ -251,8 +120,8 @@
             },
             "locales": {
                 "en": {"title": "Personal **interests**"},
-                "es": { "title": "Intereses **personales**" },
-                "fr": { "title": "Intérêts **personnels** " },
+                "my": { "title": "ကျွန်တော် ၏**စိတ်ဝင်စားမူများ**" },
+                "ja": { "title": "個人的な**興味**"},
                 "ko": { "title": "개인 **관심사**" }
             },
 
@@ -269,13 +138,13 @@
                             "title": "Playing guitar",
                             "info": "Exploring different genres and improving my skills."
                         },
-                        "es": {
-                            "title": "Tocar la guitarra",
-                            "info": "Explorando diferentes géneros y mejorando mis habilidades."
+                        "my": {
+                            "title": "ဂီတတီးခြင်း",
+                             "info": "ကျွန်တော် အားလပ်ချိန်တွေမှာ ဂီးတတီးခြင်းကို လုပ်လေ့ရှိပါတယ်။"
                         },
-                        "fr": {
-                            "title": "Jouer de la guitare",
-                            "info": "Explorer différents genres et améliorer mes compétences."
+                        "ja": {
+                           "title": "ギターを弾く",
+                            "info": "さまざまなジャンルを探求し、スキルを向上させています。"
                         },
                         "ko": {
                             "title": "기타 연주",
@@ -296,13 +165,13 @@
                             "title": "AI video editing",
                             "info": "Learning to use AI tools to enhance my videos."
                         },
-                        "es": {
-                            "title": "Edición de video con IA",
-                            "info": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
+                        "my": {
+                            "title": "AI ဗီဒီယိုတည်းဖြတ်ခြင်း",
+                            "info": "AI ကိရိယာများကို အသုံးပြုပြီး ဗီဒီယိုများပြုလုပ်ရတာကိုလည်း ကြိုက်ပါတယ်ဗျ။"
                         },
-                        "fr": {
-                            "title": "Montage vidéo avec IA",
-                            "info": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                        "ja": {
+                           "title": "AI動画編集",
+                            "info": "AIツールを使って動画を強化する方法を学んでいます。"
                         },
                         "ko": {
                             "title": "AI 영상 편집",
@@ -323,13 +192,13 @@
                             "title": "Illustration",
                             "info": "Practicing digital art and exploring new styles."
                         },
-                        "es": {
-                            "title": "Ilustración",
-                            "info": "Practicando arte digital y explorando nuevos estilos."
+                        "my": {
+                           "title": "ပုံဖော်ရေးဆွဲခြင်း",
+                            "info": "ဒစ်ဂျစ်တယ်အနုပညာကို အသုံးပြုပြီး ပုံများရေးဆွဲခြင်းကို လည်းကြိုက်နှစ်သက်ပါတယ်ဗျ။ စတိုင်အသစ်များလေ့လာခြင်း။"
                         },
-                        "fr": {
-                            "title": "Illustration",
-                            "info": "Pratiquer l'art numérique et explorer de nouveaux styles."
+                        "ja": {
+                            "title": "イラストレーション",
+                            "info": "デジタルアートを練習し、新しいスタイルを探求しています。"
                         },
                         "ko": {
                             "title": "일러스트레이션",
@@ -347,16 +216,16 @@
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Investing",
-                            "info": "Learning the basics of stocks and personal finance."
+                            "title": "Reading",
+                            "info": "Enjoying books on technology, history, and self-improvement."
                         },
-                        "es": {
-                            "title": "Invertir",
-                            "info": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
+                        "my": {
+                            "title": "စာဖတ်ခြင်း",
+                            "info": "နည်းပညာ၊ သမိုင်းနှင့် ကိုယ်တိုင်တိုးတက်ရေးဆိုင်ရာ စာအုပ်များဖတ်ရတာလည်း ကြိုက်ပါတယ်ဗျ။"   
                         },
-                        "fr": {
-                            "title": "Investir",
-                            "info": "Apprendre les bases des actions et des finances personnelles."
+                        "ja": {
+                            "title": "読書",
+                            "info": "技術、歴史、自己改善に関する本を楽しんでいます。"
                         },
                         "ko": {
                             "title": "투자",
@@ -377,13 +246,13 @@
                             "title": "UX design",
                             "info": "Studying user experience principles."
                         },
-                        "es": {
-                            "title": "Diseño UX",
-                            "info": "Estudiando los principios de la experiencia del usuario."
+                        "my": {
+                            "title": "UX ဒီဇိုင်း",
+                            "info": "UX ဒီဇိုင်းများအကြောင်းလေ့လာရတာကို သဘောကြပါတယ်ဗျ။"
                         },
-                        "fr": {
-                            "title": "Conception UX",
-                            "info": "Étudier les principes de l'expérience utilisateur."
+                        "ja": {
+                             "title": "UXデザイン",
+                            "info": "ユーザーエクスペリエンスの原則を学んでいます。"
                         },
                         "ko": {
                             "title": "UX 디자인",
@@ -404,13 +273,13 @@
                             "title": "Photo editing",
                             "info": "Enhancing photos through creative editing techniques."
                         },
-                        "es": {
-                            "title": "Edición de fotos",
-                            "info": "Mejorando fotos a través de técnicas creativas de edición."
+                        "my": {
+                            "title": "ဓာတ်ပုံတည်းဖြတ်ခြင်း",
+                            "info": "ဓာတ်ပုံများ ဖန်တီးမှုတည်းဖြတ်မူများကိုလည်း လေ့လာရတာကို ကြိုက်နှစ်သက်ပါတယ်။"
                         },
-                        "fr": {
-                            "title": "Retouche photo",
-                            "info": "Améliorer des photos avec des techniques de montage créatives."
+                        "ja": {
+                            "title": "写真編集",
+                            "info": "クリエイティブな編集技術を通じて写真を強化しています。"
                         },
                         "ko": {
                             "title": "사진 편집",

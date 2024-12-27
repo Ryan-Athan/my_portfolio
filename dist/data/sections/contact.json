@@ -6,16 +6,16 @@
             "title_long": "**Contact** Me"
         },
 
-        "es": {
-            "title": "Contacto",
-            "title_long_prefix": "No dudes en",
-            "title_long": "**Contácta**me"
+        "my": {
+            "title": "ဆက်သွယ်ရန်",
+            "title_long_prefix": "ကျွန်တော့်ကို",
+            "title_long": "**အမြန်ဆုံးဆက်သွယ်**ချင်ရင်"
         },
 
-        "fr": {
-            "title": "Contact",
-            "title_long_prefix": "N'hésitez pas à",
-            "title_long": "Me **Contacter**"
+        "ja": {
+            "title": "接触",
+            "title_long_prefix": "お気軽に",
+            "title_long": "**お問い合わせください**"
         },
 
         "ko": {
@@ -32,8 +32,8 @@
             "config": {},
             "locales": {
                 "en": {"title": "Send me a **message**"},
-                "es": {"title": "Envíame un **mensaje**"},
-                "fr": {"title": "Envoyez-moi un **message**"},
+                "my": {"title": "ကျွန်တော်ဆီ **စာပို့ရန်**"},
+                "ja": {"title": "**メッセージ** を送る"},
                 "ko": {"title": "**메시지를** 보내주세요"}
             },
 
@@ -48,14 +48,14 @@
             },
             "locales": {
                 "en": {"title": "Or if you **prefer**..."},
-                "es": {"title": "O si **prefieres**..."},
-                "fr": {"title": "Ou si vous **préférez**..."},
+                "my": {"title": "သို့မဟုတ် **တခြားနည်းက ဆက်သွယ်ချင်ရင်**..."},
+                "ja": {"title": "**お好み** で..."},
                 "ko": {"title": "또는 **원하시면**..."}
             },
 
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "+95 (09) 9-788-557-446",
                     "links": [
                         {"href": "tel:11234567890"}
                     ],
@@ -66,16 +66,16 @@
                     },
                     "locales": {
                         "en": {"title": "Phone"},
-                        "es": {"title": "Teléfono"},
-                        "fr": {"title": "Téléphone"},
+                        "my": {"title": "ဖုန်း"},
+                        "ja": {"title": "電話"},
                         "ko": {"title": "전화"}
                     }
                 },
 
                 {
-                    "value": "mark.choi@email.com",
+                    "value": "ryanathan10@email.com",
                     "links": [
-                        {"href": "mailto:mark.choi@email.com"}
+                        {"href": "mailto:ryanathan10@email.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -84,12 +84,14 @@
                     },
                     "locales": {
                         "en": {"title": "E-mail"},
+                        "my": {"title": "အီမေလ်"},
+                        "ja": {"title": "電子メール"},
                         "ko": {"title": "이메일"}
                     }
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@ryanathan",
                     "links": [
                         {"href": "https://linkedin.com"}
                     ],
@@ -104,7 +106,7 @@
                 },
 
                 {
-                    "value": "Mark Choi",
+                    "value": "Thar Nyi Phyo",
                     "links": [
                         {"href": "https://facebook.com"}
                     ],
@@ -119,7 +121,7 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@ryanathan",
                     "links": [
                         {"href": "https://instagram.com"}
                     ],
@@ -134,7 +136,7 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@ryanathan",
                     "links": [
                         {"href": "https://tiktok.com"}
                     ],
