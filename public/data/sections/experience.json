@@ -1,0 +1,187 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+
+        "my": {
+            "title": "အတွေ့အကြုံ",
+            "title_long_prefix": "ဒါတွေကတော့ ကျွန်တော်ရဲ့",
+            "title_long": "လက်ရှိလုပ်နေသော **လုပ်ငန်းအတွေ့အကြုံတွေပဲ** ဖြစ်ပါတယ်။"
+        },
+
+        "ja": {
+            "title": "経験",
+            "title_long_prefix": "私のまとめ",
+            "title_long": "**実務経験**"
+        },
+
+        "ko": {
+            "title": "경험",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**직업적** 경험"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/place-7.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "03/01/2016",
+                        "end": "06/01/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Full Stack Web Developer Intern**",
+                            "info": "DLT",
+                            "text": "Assisted in designing and developing scalable web applications, integrating frontend and backend technologies to enhance user experiences. Supported database optimization, implemented RESTful APIs, and contributed to responsive design for cross-platform compatibility.",
+                            "tags": ["PHP", "MySQL", "Laravel", "JavaScript", "React"]
+                        },
+                        "my": {
+                            "title": "**Full Stack Web Developer Intern**",
+                            "info": "DLT",
+                            "text": "အသုံးပြုသူအတွေ့အကြုံများကို မြှင့်တင်ရန်အတွက် ရှေ့တန်းနှင့် နောက်ခံနည်းပညာများကို ပေါင်းစပ်၍ အရွယ်အစားကြီးနိုင်သော ဝဘ်အက်ပ်လီကေးရှင်းများကို ဒီဇိုင်းရေးဆွဲခြင်းနှင့် တီထွင်ခြင်းတွင် ကူညီပေးခဲ့သည်။ ပံ့ပိုးထားသော ဒေတာဘေ့စ်ကို ပိုမိုကောင်းမွန်အောင်ပြုလုပ်ခြင်း၊ RESTful APIs များကို အကောင်အထည်ဖော်ပြီး cross-platform လိုက်ဖက်ညီမှုအတွက် တုံ့ပြန်မှုပုံစံအတွက် ပံ့ပိုးပေးပါသည်။",
+                            "tags": ["PHP", "MySQL", "Laravel", "JavaScript", "React"]
+                        },
+                        "ja": {
+                            "title": "**フルスタックウェブデベロッパーインターン**",
+                            "info": "DLT",
+                            "text": "スケーラブルなWebアプリケーションの設計と開発を支援し、フロントエンドとバックエンドの技術を統合してユーザー体験を向上させました。データベースの最適化をサポートし、RESTful APIを実装し、クロスプラットフォーム対応のレスポンシブデザインに貢献しました。",
+                            "tags": ["PHP", "MySQL", "Laravel", "JavaScript", "React"]
+                        },
+                        "ko": {
+                            "title": "**백엔드** 개발자",
+                            "info": "사파이어 스튜디오",
+                            "text": "여러 클라이언트를 위해 확장 가능한 백엔드 시스템을 개발하고 유지 관리하며, 데이터베이스 성능을 최적화하고 애플리케이션 기능을 개선하기 위해 RESTful API를 구현했습니다.",
+                            "tags": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-3.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "06/01/2018",
+                        "end": "12/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Python Developer Intern**",
+                            "info": "DLT",
+                            "text": "Contributed to the development and maintenance of Python-based applications, implementing efficient algorithms and optimizing code performance. Assisted in developing RESTful APIs, integrating third-party libraries, and performing data analysis to support project objectives.",
+                            "tags": ["Python", "Django", "Flask", "REST API", "Pandas"]
+                        },
+                        "my": {
+                            "title": "**Python Developer Intern**",
+                            "info": "DLT",
+                            "text": "Python-based အပလီကေးရှင်းများ၏ ဖွံ့ဖြိုးတိုးတက်မှုနှင့် ထိန်းသိမ်းမှု၊ ထိရောက်သော အယ်လဂိုရီသမ်များကို အကောင်အထည်ဖော်ခြင်းနှင့် ကုဒ်စွမ်းဆောင်ရည်ကို ပိုကောင်းအောင်လုပ်ဆောင်ခြင်းတို့တွင် ပံ့ပိုးကူညီခဲ့သည်။ RESTful APIs များ ရေးဆွဲခြင်း၊ ပြင်ပအဖွဲ့အစည်း စာကြည့်တိုက်များ ပေါင်းစပ်ခြင်းနှင့် ပရောဂျက် ရည်မှန်းချက်များကို ပံ့ပိုးရန်အတွက် ဒေတာခွဲခြမ်းစိတ်ဖြာခြင်းများ လုပ်ဆောင်ရာတွင် ကူညီပေးခဲ့ပါသည်။",
+                            "tags": ["Python", "Django", "Flask", "REST API", "Pandas"]
+                        },
+                        "ja": {
+                            "title": "**Pythonデベロッパーインターン**",
+                            "info": "DLT",
+                            "text": "Pythonベースのアプリケーションの開発と保守に貢献し、効率的なアルゴリズムを実装し、コードパフォーマンスを最適化しました。RESTful APIの開発を支援し、サードパーティライブラリを統合し、プロジェクトの目標を支えるためのデータ分析を実施しました。",
+                            "tags": ["Python", "Django", "Flask", "REST API", "Pandas"]
+                        },
+                        "ko": {
+                            "title": "**풀스택** 엔지니어",
+                            "info": "코세라",
+                            "text": "Coursera 웹사이트를 개선하기 위해 새로운 기능을 추가하고 사용자 경험을 최적화했습니다. 원활한 기능을 보장하기 위해 프론트엔드와 백엔드 기술을 모두 활용했습니다.",
+                            "tags": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-1.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "12/01/2020",
+                        "end": "11/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**PHP Developer Intern**",
+                            "info": "DLT",
+                            "text": "Assisted in developing and maintaining PHP-based web applications, focusing on creating efficient backend logic and enhancing application performance. Contributed to the development of RESTful APIs, optimized database queries, and integrated third-party services to meet client requirements.",
+                            "tags": ["PHP", "Laravel", "CodeIgniter", "MySQL", "REST API"]
+                        },
+                        "my": {
+                            "title": "**PHP Developer Intern**",
+                            "info": "DLT",
+                            "text": "ထိရောက်သော backend logic ဖန်တီးခြင်းနှင့် အပလီကေးရှင်းစွမ်းဆောင်ရည်ကို မြှင့်တင်ခြင်းတို့ကို အာရုံစိုက်ကာ PHP-based web applications များကို ပြုစုထိန်းသိမ်းရာတွင် ကူညီပေးခဲ့ပါသည်။ RESTful APIs များ ဖွံ့ဖြိုးတိုးတက်မှု၊ ပိုမိုကောင်းမွန်အောင်ပြုလုပ်ထားသော ဒေတာဘေ့စ်မေးမြန်းချက်များနှင့် သုံးစွဲသူများ၏ လိုအပ်ချက်များနှင့် ကိုက်ညီစေရန် ပေါင်းစပ်ပြင်ပမှ ဝန်ဆောင်မှုများကို ပံ့ပိုးပေးပါသည်။",
+                            "tags": ["PHP", "Laravel", "CodeIgniter", "MySQL", "REST API"]
+                        },
+                        "ja": {
+                            "title": "**PHPデベロッパーインターン**",
+                            "info": "DLT",
+                            "text": "PHPベースのWebアプリケーションの開発と保守を支援し、効率的なバックエンドロジックの作成とアプリケーションパフォーマンスの向上に注力しました。RESTful APIの開発に貢献し、データベースクエリを最適化し、クライアントの要件を満たすためにサードパーティサービスを統合しました。",
+                            "tags": ["PHP", "Laravel", "CodeIgniter", "MySQL", "REST API"]
+                        },
+                        "ko": {
+                            "title": "**백엔드** 엔지니어",
+                            "info": "어도비 주식회사",
+                            "text": "Adobe Creative Cloud를 위한 강력한 백엔드 시스템 개발에 기여하였으며, 타사 서비스 통합과 클라우드 기능을 통해 데이터 처리 효율성을 향상시켰습니다.",
+                            "tags": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-apple",
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "12/01/2022",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Junior JavaScript Developer**",
+                            "info": "Intership",
+                            "text": "<p>Supported the development of modern web applications, focusing on:</p> <ul><li>Building responsive and dynamic user interfaces using React and Vue.js</li><li>Writing clean and maintainable JavaScript code</li><li>Collaborating with backend developers to ensure seamless API integration</li><li>Debugging and troubleshooting frontend issues</li><li>Contributing to performance optimization and code reviews</li></ul> <p class='mt-3'>Gained hands-on experience in building user-centric web applications in a collaborative environment.</p>",
+                            "tags": ["JavaScript", "React", "Vue.js", "HTML", "CSS"]
+                        },
+                        "my": {
+                            "title": "**Junior JavaScript Developer**",
+                            "info": "Intership",
+                            "text": "<p>ခေတ်မီဝဘ်အက်ပလီကေးရှင်းများ ဖွံ့ဖြိုးတိုးတက်ရေးကို ပံ့ပိုးပေးထားပြီး၊</p> <ul><li>React နှင့် Vue.js ကို အသုံးပြု၍ တုံ့ပြန်မှုနှင့် တက်ကြွသော အသုံးပြုသူ အင်တာဖေ့စ်များကို တည်ဆောက်ခြင်း။</li><li>သန့်ရှင်းပြီး ထိန်းသိမ်းနိုင်သော JavaScript ကုဒ်ကို ရေးသားခြင်း။</li><li>ချောမွေ့သော API ပေါင်းစပ်မှုကို သေချာစေရန် backend developer များနှင့် ပူးပေါင်းဆောင်ရွက်ခြင်း</li><li>အမှားရှာပြင်ခြင်းနှင့် ရှေ့တန်းပြဿနာများကို ဖြေရှင်းခြင်း။</li><li>စွမ်းဆောင်ရည် ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ခြင်း နှင့် ကုဒ်ပြန်လည်သုံးသပ်ခြင်းများတွင် ပါဝင်ကူညီခြင်း။</li></ul> <p class='mt-3'>ပူးပေါင်းဆောင်ရွက်သော ပတ်ဝန်းကျင်တွင် အသုံးပြုသူဗဟိုပြု ဝဘ်အက်ပလီကေးရှင်းများ တည်ဆောက်ရာတွင် လက်ဆင့်ကမ်း အတွေ့အကြုံ ရရှိခဲ့သည်။</p>",
+                            "tags": ["JavaScript", "React", "Vue.js", "HTML", "CSS"]
+                        },
+                        "ja": {
+                            "title": "**ジュニアJavaScriptデベロッパー**",
+                            "info": "Intership",
+                            "text": "<p>モダンなWebアプリケーションの開発をサポートし、以下に注力しました:</p> <ul><li>ReactやVue.jsを使用したレスポンシブで動的なユーザーインターフェースの構築</li><li>クリーンでメンテナンス可能なJavaScriptコードの記述</li><li>バックエンドデベロッパーと連携し、シームレスなAPI統合を実現</li><li>フロントエンドの問題のデバッグとトラブルシューティング</li><li>パフォーマンス最適化とコードレビューへの貢献</li></ul> <p class='mt-3'>コラボレーション環境でユーザー中心のWebアプリケーションの構築における実践的な経験を積みました。</p>",
+                            "tags": ["JavaScript", "React", "Vue.js", "HTML", "CSS"]
+                        },
+                        "ko": {
+                            "title": "**수석 백엔드** 개발자",
+                            "info": "애플 주식회사",
+                            "text": "<p>Apple 서비스의 백엔드 솔루션을 설계하고 구현하는 개발 팀을 이끌며, 다음에 중점을 둡니다:</p> <ul><li>보안</li><li>수백만 명의 사용자를 처리할 수 있는 확장성</li><li>RESTful API 개발</li><li>PostgreSQL로 데이터베이스 성능 최적화</li><li>Swift, PHP, GraphQL로 서비스 구축</li></ul> <p class='mt-3'>우리는 함께 Apple의 백엔드 인프라가 견고하고 효율적으로 유지되도록 보장합니다.</p>",
+                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

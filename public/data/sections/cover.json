@@ -1,0 +1,293 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Ryan Athan!**"
+        },
+
+        "my": {
+            "title": "ကြိုဆိုပါတယ်",
+            "title_menu": "ကျွန်တာ်အကြောင်း",
+            "title_long_prefix": "မင်္ဂလာပါ...",
+            "title_long": "ကျွန်တော်နာမည်ကတော့ **မောင်သားညီဖြိုး** ဖြစ်ပါတယ်ဗျ။"
+        },
+
+        "ja": {
+            "title": "ようこそ",
+            "title_menu": "私について紹介します",
+            "title_long_prefix": "こんにちは...",
+            "title_long": "私の名前は**マウン・ター・ニー・ピョー**です。"
+        },
+
+        "ko": {
+            "title": "환영합니다!",
+            "title_menu": "소개",
+            "title_long_prefix": "안녕하세요...",
+            "title_long": "저는 **Mark Choi** 입니다!"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "es": {},
+                "fr": {},
+                "ko": {}
+            },
+
+            "items": [
+                {
+                    "value": "Nay Pyi Taw – Myanmar",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "ryanathan10@gmail.com",
+                    "links": [
+                        {"href": "mailto:ryanathan10@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@ryanathan",
+                    "links": [
+                        {"href": "https://github.com/Ryan-Athan"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."},
+                "my": {"title": "**ကျွန်တော်အကြောင်း** အနည်းငယ်မိတ်ဆက်ပေးပါရစေ.... "},
+                "ja": {"title": "**私について** 少し紹介させていただきます..."},
+                "ko": {"title": "저에 **대해 조금**..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"text": "<p>I’m a passionate web developer with expertise in backend development using PHP and Laravel, combined with frontend skills in HTML, CSS, Bootstrap, and Tailwind CSS. I also have hands-on experience with C++ and enjoy building dynamic, user-friendly applications.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"},
+
+                        "my": {"text": "<p>ကျွန်တော်ကတော့ Backend Development အတွက် PHP နှင့် Laravel တို့ကို အသုံးပြုသော web developer တစ်ဦးဖြစ်ပြီးတော့ HTML, CSS, Bootstrap, Tailwind CSS တို့ဖြင့် Frontend Development လည်းကျွမ်းကျင်ပါတယ်။ C++ ကိုလည်း အတွေ့အကြုံရှိပြီး user-friendly application များကို တီထွင်ဖန်တီးတာကိုနှစ်သက်ပါတယ်။</p><p>ကျွန်တော်၏ တီထွင်ဖန်တီးမှုနှင့် ထိရောက်မှုကြောင့် အမျိုးမျိုးသော project များအတွက် အလိုက်ဖက်ဆုံး ဖြေရှင်းချက်များကို ဖန်တီးနိုင်ပါသည်။</p><p>အဖွဲ့အစည်းများနှင့် ပူးပေါင်းဆောင်ရွက်ဖို့လည်း စောင့်မျှော်နေပါတယ်!</p>"},
+
+                        "ja": {"text": "<p>私はPHPとLaravelを使用したバックエンド開発を専門とするWeb開発者であり、HTML、CSS、Bootstrap、Tailwind CSSを使用したフロントエンド開発にも精通しています。 また、C++の経験があり、使いやすいアプリケーションの構築を楽しんでいます。</p><p>多様なスキルセットにより、さまざまなプロジェクトのニーズに柔軟に対応できます。</p><p>ぜひ一緒に素晴らしいプロジェクトを作りましょう！</p>"},
+
+                        "ko": {"text": "<p>저는 백엔드 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 <b>10년 이상의</b> 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다.</p><p><b>당신과 협업</b>하기를 기대하고 있습니다!</p>"}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"},
+                "my": { "title": "ကျွန်တော် ၏**စိတ်ဝင်စားမူများ**" },
+                "ja": { "title": "個人的な**興味**"},
+                "ko": { "title": "개인 **관심사**" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-guitar",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Playing guitar",
+                            "info": "Exploring different genres and improving my skills."
+                        },
+                        "my": {
+                            "title": "ဂီတတီးခြင်း",
+                             "info": "ကျွန်တော် အားလပ်ချိန်တွေမှာ ဂီးတတီးခြင်းကို လုပ်လေ့ရှိပါတယ်။"
+                        },
+                        "ja": {
+                           "title": "ギターを弾く",
+                            "info": "さまざまなジャンルを探求し、スキルを向上させています。"
+                        },
+                        "ko": {
+                            "title": "기타 연주",
+                            "info": "다양한 장르를 탐험하고 기술을 향상시키기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-video",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI video editing",
+                            "info": "Learning to use AI tools to enhance my videos."
+                        },
+                        "my": {
+                            "title": "AI ဗီဒီယိုတည်းဖြတ်ခြင်း",
+                            "info": "AI ကိရိယာများကို အသုံးပြုပြီး ဗီဒီယိုများပြုလုပ်ရတာကိုလည်း ကြိုက်ပါတယ်ဗျ။"
+                        },
+                        "ja": {
+                           "title": "AI動画編集",
+                            "info": "AIツールを使って動画を強化する方法を学んでいます。"
+                        },
+                        "ko": {
+                            "title": "AI 영상 편집",
+                            "info": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-paint-brush",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Illustration",
+                            "info": "Practicing digital art and exploring new styles."
+                        },
+                        "my": {
+                           "title": "ပုံဖော်ရေးဆွဲခြင်း",
+                            "info": "ဒစ်ဂျစ်တယ်အနုပညာကို အသုံးပြုပြီး ပုံများရေးဆွဲခြင်းကို လည်းကြိုက်နှစ်သက်ပါတယ်ဗျ။ စတိုင်အသစ်များလေ့လာခြင်း။"
+                        },
+                        "ja": {
+                            "title": "イラストレーション",
+                            "info": "デジタルアートを練習し、新しいスタイルを探求しています。"
+                        },
+                        "ko": {
+                            "title": "일러스트레이션",
+                            "info": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-line",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Reading",
+                            "info": "Enjoying books on technology, history, and self-improvement."
+                        },
+                        "my": {
+                            "title": "စာဖတ်ခြင်း",
+                            "info": "နည်းပညာ၊ သမိုင်းနှင့် ကိုယ်တိုင်တိုးတက်ရေးဆိုင်ရာ စာအုပ်များဖတ်ရတာလည်း ကြိုက်ပါတယ်ဗျ။"   
+                        },
+                        "ja": {
+                            "title": "読書",
+                            "info": "技術、歴史、自己改善に関する本を楽しんでいます。"
+                        },
+                        "ko": {
+                            "title": "투자",
+                            "info": "주식과 개인 재정의 기초 배우기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pencil-alt",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "UX design",
+                            "info": "Studying user experience principles."
+                        },
+                        "my": {
+                            "title": "UX ဒီဇိုင်း",
+                            "info": "UX ဒီဇိုင်းများအကြောင်းလေ့လာရတာကို သဘောကြပါတယ်ဗျ။"
+                        },
+                        "ja": {
+                             "title": "UXデザイン",
+                            "info": "ユーザーエクスペリエンスの原則を学んでいます。"
+                        },
+                        "ko": {
+                            "title": "UX 디자인",
+                            "info": "사용자 경험 원칙을 공부하기."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-camera-retro",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Photo editing",
+                            "info": "Enhancing photos through creative editing techniques."
+                        },
+                        "my": {
+                            "title": "ဓာတ်ပုံတည်းဖြတ်ခြင်း",
+                            "info": "ဓာတ်ပုံများ ဖန်တီးမှုတည်းဖြတ်မူများကိုလည်း လေ့လာရတာကို ကြိုက်နှစ်သက်ပါတယ်။"
+                        },
+                        "ja": {
+                            "title": "写真編集",
+                            "info": "クリエイティブな編集技術を通じて写真を強化しています。"
+                        },
+                        "ko": {
+                            "title": "사진 편집",
+                            "info": "창의적인 편집 기술을 통해 사진을 향상시키기."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

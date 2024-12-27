@@ -1,0 +1,291 @@
+{
+    "locales": {
+        "en": {
+            "title": "Life recently",
+            "title_menu": "Updates",
+            "title_long_prefix": "Take a look at my",
+            "title_long": "Recent **Updates**"
+        },
+
+        "my": {
+            "title": "တိုးတက်မူများ",
+            "title_menu": "နောက်ဆုံးရအချက်အလက်များ",
+            "title_long_prefix": "ကြည့်လိုက်ကြရအောင်",
+            "title_long": "မကြာသေးခင်က **ပြောင်းလဲတိုးတက်မူများ** ကို"
+        },
+
+        "ja": {
+            "title": "最近の生活",
+            "title_menu": "アップデート",
+            "title_long_prefix": "私の",
+            "title_long": "最近の**アップデート**をご覧ください"
+        },
+
+        "ko": {
+            "title": "최근의 삶",
+            "title_menu": "업데이트",
+            "title_long_prefix": "내 최근",
+            "title_long": "**업데이트**를 확인해 보세요"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "fun_facts",
+            "component": "ArticleServices",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-tablet-screen-button",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "03",
+                            "info": "Apps published"
+                        },
+                        "my": {
+                            "title": "၀၃",
+                            "info": "Apps ဖန်တီးခဲ့မူ"
+                        },
+                        "ja": {
+                            "title": "三",
+                            "info": "公開されたアプリ"
+                        },
+                        "ko": {
+                            "title": "03",
+                            "info": "출시된 앱"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-star",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "100+",
+                            "info": "Stars on GitHub"
+                        },
+                        "my": {
+                            "title": "၁၀၀+",
+                            "info": "GitHub မှာ ကြယ်ရရှိမူ"
+                        },
+                        "ja": {
+                            "title": "100以上",
+                            "info": "GitHub のスター"
+                        },
+                        "ko": {
+                            "title": "100+",
+                            "info": "GitHub 별"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-globe",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "1",
+                            "info": "Countries visited"
+                        },
+                        "my": {
+                            "title": "၁",
+                            "info": "ပြည်ပနိုင်ငံများ သို့ အလှည့်အပတ်သွားရှိခဲ့မူ"
+                        },
+                        "ja": {
+                            "title": "一",
+                            "info": "訪問国"
+                        },
+                        "ko": {
+                            "title": "12",
+                            "info": "방문한 나라"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-diagram-project",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "05",
+                            "info": "Open-source projects"
+                        },
+                        "es": {
+                            "title": "၀၅",
+                            "info": "Proyectos de código abierto"
+                        },
+                        "fr": {
+                            "title": "五",
+                            "info": "オープンソースプロジェクト"
+                        },
+                        "ko": {
+                            "title": "07",
+                            "info": "오픈 소스 프로젝트"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-coffee",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "20,000",
+                            "info": "Coffees consumed"
+                        },
+                        "my": {
+                            "title": "၂၀,၀၀၀",
+                            "info": "သောက်ဆဲလက်ဖက်ရည်"
+                        },
+                        "ja": {
+                            "title": "20,000",
+                            "info": "消費したコーヒー"
+                        },
+                        "ko": {
+                            "title": "20,000",
+                            "info": "마신 커피"
+                        }
+                    }
+                }
+
+            ]
+        },
+
+        {
+            "id": "updates",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Quick **Facts**" },
+                "my": { "title": "လက်တလော **ပြောင်းလဲမူများ**" },
+                "ja": {  "title": "簡単な **事実**" },
+                "ko": { "title": "**뉴스** 피드" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "09/01/2022",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Relocated to **Yangon!**",
+                            "text": "Successfully transitioned to Yangon to explore new career opportunities in the tech industry, leveraging the vibrant local ecosystem to enhance my professional growth."
+                        },
+                        "my": {
+                            "title": "**ရန်ကုန်** သို့ ပြောင်းရွှေ့ခဲ့ပါပြီ!",
+                            "text": "နည်းပညာလုပ်ငန်းအတွင်း နယူးအလုပ်အကိုင်အခွင့်အလမ်းများကို ရှာဖွေရန်အတွက် ရန်ကုန်သို့ အောင်မြင်စွာ ပြောင်းရွှေ့ခဲ့ပြီး၊ ဒေသထဲရှိ တက်ကြွသည့်စီးပွားရေးစနစ်ကို အသုံးချကာ ကျွမ်းကျင်မှုတိုးတက်မှုကို မြှင့်တင်နိုင်ခဲ့ပါသည်။"
+                        },
+                        "ja": {
+                            "title": "**ヤンゴン**に移住しました！",
+                            "text": "テクノロジー業界での新たなキャリアの機会を模索するため、ヤンゴンに成功裏に移住しました。活気ある地元のエコシステムを活用して、プロフェッショナルな成長を促進しました。"
+                        },
+                        "ko": {
+                            "title": "**캘리포니아로 이사했습니다!**",
+                            "text": "기술 산업의 새로운 직업 기회를 탐색하기 위해 캘리포니아로 성공적으로 이주하였으며, 지역 생태계를 활용하여 전문성을 향상시키고 있습니다."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "05/12/2023",
+                        "end": null
+                    },
+                    "links": [
+                        {"string": "see_more", "href": "https://youtube.com"}
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Started my own **YouTube channel**!",
+                            "text": "Launched a YouTube channel focused on programming tutorials, sharing insights and techniques on various technologies, and engaging with a community of aspiring developers."
+                        },
+                        "my": {
+                            "title": "ကျွန်ုပ်၏ကိုယ်ပိုင် **YouTube ချန်နယ်** ကိုစတင်ခဲ့သည်!",
+                            "text": "ပရိုဂရမ်းမင်းသင်ခန်းစာများကို အထူးပြုထားသော YouTube ချန်နယ်ကို စတင်ခဲ့ပြီး၊ မျိုးစုံသော နည်းပညာများအပေါ် အတွေ့အကြုံများနှင့် နည်းလမ်းများကို မျှဝေကာ၊ အဆင့်မြှင့်ရန်စိတ်အားထက်သန်သော အဖွဲ့ဝင်များနှင့် ဆက်သွယ်ပါသည်။"
+                        },
+                        "ja": {
+                            "title": "自分の**YouTubeチャンネル**を始めました！",
+                            "text": "プログラミングチュートリアルに特化したYouTubeチャンネルを開設し、さまざまな技術に関する洞察やテクニックを共有し、意欲的な開発者コミュニティとの交流を深めています。"
+                        },
+                        "ko": {
+                            "title": "자신의 **유튜브 채널을** 시작했습니다!",
+                            "text": "프로그래밍 튜토리얼에 초점을 맞춘 유튜브 채널을 시작하여 다양한 기술에 대한 통찰력과 기법을 공유하고, 개발자 지망생 커뮤니티와 소통하고 있습니다."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "11/05/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Working on a new **mobile project**!",
+                            "text": "Currently developing a mobile application that integrates innovative features and user-friendly design, aimed at enhancing user experience and addressing specific market needs."
+                        },
+                        "my": {
+                           "title": "အသစ်သော **မိုဘိုင်းစီမံကိန်း** တစ်ခုအပေါ်လုပ်ဆောင်နေသည်!",
+                            "text": "တန်ဖိုးရှိသော အသစ်အဆန်းလက္ခဏာများနှင့် အသုံးပြုသူအဆင်ပြေမှုရှိသော ဒီဇိုင်းကို ပေါင်းစပ်ထားသည့် မိုဘိုင်းအပလီကေးရှင်းတစ်ခုကို လက်ရှိ ဖန်တီးနေပြီး၊ အသုံးပြုသူအတွေ့အကြုံကို မြှင့်တင်ရန်နှင့် သတ်မှတ်ထားသော စျေးကွက်လိုအပ်ချက်များကို ဖြေရှင်းနိုင်ရန် ရည်ရွယ်ထားသည်။"
+                        },
+                        "ja": {
+                            "title": "新しい**モバイルプロジェクト**に取り組んでいます！",
+                            "text": "革新的な機能と使いやすいデザインを統合したモバイルアプリケーションを現在開発中です。ユーザー体験を向上させ、市場の特定のニーズに対応することを目指しています。"
+                        },
+                        "ko": {
+                            "title": "새 **모바일 프로젝트** 작업 중!",
+                            "text": "혁신적인 기능과 사용자 친화적인 디자인을 통합한 모바일 애플리케이션을 현재 개발 중이며, 사용자 경험을 향상하고 특정 시장의 요구를 충족하는 것을 목표로 하고 있습니다."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "12/12/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_more", "href": "https://ryanbalieiro.github.io/react-portfolio-template/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Launched my **personal website**!",
+                            "text": "Created a personal website to showcase my projects, share my journey in programming, and provide resources for fellow developers."
+                        },
+                        "my": {
+                            "title": "ကျွန်ုပ်၏ **ကိုယ်ပိုင်ဝဘ်ဆိုက်** ကို စတင်ခဲ့သည်!",
+                            "text": "ကျွန်ုပ်၏ စီမံကိန်းများကို ပြသရန်၊ ပရိုဂရမင်းခရီးကို မျှဝေရန်နှင့် မိတ်ဖက်ဖွံ့ဖြိုးရေးဆိုင်ရာအရင်းအမြစ်များကို ပံ့ပိုးရန်အတွက် ကိုယ်ပိုင်ဝဘ်ဆိုက်တစ်ခုကို ဖန်တီးခဲ့သည်။"
+                        },
+                        "ja": {
+                            "title": "自分の**個人ウェブサイト**を公開しました！",
+                            "text": "プロジェクトを紹介し、プログラミングの旅を共有し、他の開発者向けにリソースを提供するための個人ウェブサイトを作成しました。"
+                        },
+                        "ko": {
+                            "title": "**개인 웹사이트**를 시작했습니다!",
+                            "text": "내 프로젝트를 소개하고 프로그래밍 여정을 공유하며 다른 개발자들을 위한 리소스를 제공하기 위해 개인 웹사이트를 만들었습니다."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "locales": {
+        "en": {
+            "title": "Contact",
+            "title_long_prefix": "Don't hesitate to",
+            "title_long": "**Contact** Me"
+        },
+
+        "my": {
+            "title": "ဆက်သွယ်ရန်",
+            "title_long_prefix": "ကျွန်တော့်ကို",
+            "title_long": "**အမြန်ဆုံးဆက်သွယ်**ချင်ရင်"
+        },
+
+        "ja": {
+            "title": "接触",
+            "title_long_prefix": "お気軽に",
+            "title_long": "**お問い合わせください**"
+        },
+
+        "ko": {
+            "title": "연락처",
+            "title_long_prefix": "주저하지 말고",
+            "title_long": "**연락** 주세요"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_form",
+            "component": "ArticleContactForm",
+            "config": {},
+            "locales": {
+                "en": {"title": "Send me a **message**"},
+                "my": {"title": "ကျွန်တော်ဆီ **စာပို့ရန်**"},
+                "ja": {"title": "**メッセージ** を送る"},
+                "ko": {"title": "**메시지를** 보내주세요"}
+            },
+
+            "items": null
+        },
+
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Or if you **prefer**..."},
+                "my": {"title": "သို့မဟုတ် **တခြားနည်းက ဆက်သွယ်ချင်ရင်**..."},
+                "ja": {"title": "**お好み** で..."},
+                "ko": {"title": "또는 **원하시면**..."}
+            },
+
+            "items": [
+                {
+                    "value": "+95 (09) 9-788-557-446",
+                    "links": [
+                        {"href": "tel:11234567890"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-phone",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Phone"},
+                        "my": {"title": "ဖုန်း"},
+                        "ja": {"title": "電話"},
+                        "ko": {"title": "전화"}
+                    }
+                },
+
+                {
+                    "value": "ryanathan10@email.com",
+                    "links": [
+                        {"href": "mailto:ryanathan10@email.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "E-mail"},
+                        "my": {"title": "အီမေလ်"},
+                        "ja": {"title": "電子メール"},
+                        "ko": {"title": "이메일"}
+                    }
+                },
+
+                {
+                    "value": "@ryanathan",
+                    "links": [
+                        {"href": "https://linkedin.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Linkedin"}
+                    }
+                },
+
+                {
+                    "value": "Thar Nyi Phyo",
+                    "links": [
+                        {"href": "https://facebook.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-facebook",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Facebook"}
+                    }
+                },
+
+                {
+                    "value": "@ryanathan",
+                    "links": [
+                        {"href": "https://instagram.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-instagram",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Instagram"}
+                    }
+                },
+
+                {
+                    "value": "@ryanathan",
+                    "links": [
+                        {"href": "https://tiktok.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-tiktok",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "TikTok"}
+                    }
+                }
+            ]
+        }
+    ]
+}

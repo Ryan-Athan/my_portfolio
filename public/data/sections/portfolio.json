@@ -1,0 +1,479 @@
+{
+    "locales": {
+        "en": {
+            "title": "Portfolio",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Portfolio**"
+        },
+
+        "my": {
+            "title": "Portafolio",
+            "title_long_prefix": "ခဏလောက်",
+            "title_long": "ကျွန်တော်ရဲံ့ **Portafolio** ကြည့်လိုက်ကြရအောင်..."
+        },
+
+        "ja": {
+            "title": "ポートフォリオ",
+            "title_long_prefix": "見てください",
+            "title_long": "私の **ポートフォリオ**"
+        },
+
+        "ko": {
+            "title": "포트폴리오",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**포트폴리오**입니다"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "portfolio",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+
+            "categories": [
+                {
+                    "id": "apps",
+                    "locales": {
+                        "en": {"singular": "App", "plural": "Apps"},
+                        "my": {"singular": "အက်ပ်", "plural": "အက်ပ်များ"},
+                        "ja": {"singular": "アプリ", "plural": "アプリ"},
+                        "ko": {"singular": "앱", "plural": "앱들"}
+                    }
+                },
+                {
+                    "id": "websites",
+                    "locales": {
+                        "en": {"singular": "Website", "plural": "Web"},
+                        "my": {"singular": "ဝဘ်ဆိုဒ်", "plural": "ဝဘ်ဆိုဒ်"},
+                        "ja": {"singular": "Webサイト", "plural": "Webサイト"},
+                        "ko": {"singular": "웹사이트", "plural": "웹"}
+                    }
+                },
+                {
+                    "id": "utilities",
+                    "locales": {
+                        "en": {"singular": "Utility", "plural": "Utilities"},
+                        "my": {"singular": "အသုံးအဆောင်များ", "plural": "အသုံးအဆောင်များ"},
+                        "ja": {"singular": "ユーティリティ", "plural": "ユーティリティ"},
+                        "ko": {"singular": "유틸리티", "plural": "유틸리티들"}
+                    }
+                }
+            ],
+
+            "items": [
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/project-logo-3.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com"},
+                        {"faIcon": "fa-brands fa-npm", "href": "https://npm.com"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://www.youtube.com/watch?v=32XsfeIX_rM",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "BrainPulse",
+                            "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
+                            "tags": ["API", "REST", "Backend"]
+                        },
+                        "my": {
+                            "title": "BrainPulse",
+                            "text": "အမြန်နှုန်းမြင့် ဒေတာဆက်သွယ်မှုနှင့် အချိန်နှင့်တပြေးညီ အဖြစ်အပျက်များ ကိုင်တွယ်နိုင်ရန်အတွက် <b>Node.js</b> ဖြင့် ဖွဲ့စည်းထားသော <b>RESTful API</b> နောက်ခံ။",
+                            "tags": ["API", "REST", "Backend"]
+                        },
+                        "ja": {
+                            "title": "BrainPulse",
+                            "text": "高性能なデータ処理とリアルタイムイベント処理を目的に設計された、<b>Node.js</b> を使用した <b>RESTful API</b> バックエンド。",
+                            "tags": ["API", "REST", "Backend"]
+                        },
+                        "ko": {
+                            "title": "BrainPulse",
+                            "text": "<b>Node.js</b>로 구축된 <b>RESTful API</b> 백엔드로, 고성능 데이터 처리 및 실시간 이벤트 처리용으로 설계되었습니다.",
+                            "tags": ["API", "REST", "Backend"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/project-logo-7.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI",
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [
+                                "images/pictures/project-screenshot-1.webp",
+                                "images/pictures/project-screenshot-2.webp",
+                                "images/pictures/project-screenshot-3.webp",
+                                "images/pictures/project-screenshot-4.webp",
+                                "images/pictures/project-screenshot-5.webp"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "MailM8",
+                            "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
+                            "tags": ["Flutter", "E-mail", "Communication"]
+                        },
+                        "my": {
+                            "title": "MailM8",
+                            "text": "အကျိုးရှိရှိ ဆက်သွယ်နိုင်ပြီး အီးမေးလ်များကို စီမံရန်အတွက် အသုံးဝင်သော အသုံးပြုမှုအဆင်ပြေသည့် <b>UI</b> ဖြင့် <b>Flutter</b> ဖြင့် ဖန်တီးထားသော မည်သည့်စနစ်ပေါ်တွင်မဆို အသုံးပြုနိုင်သော အီးမေးလ်ဖောက်သည်။",
+                            "tags": ["Flutter", "Correo", "Comunicación"]
+                        },
+                        "ja": {
+                            "title": "MailM8",
+                            "text": "<b>Flutter</b> を使用して構築された、効率的なコミュニケーションを提供し、<b>メール管理</b> に直感的な UI を備えたクロスプラットフォームのメールクライアント。",
+                            "tags": ["Flutter", "E-mail", "Communication"]
+                        },
+                        "ko": {
+                            "title": "MailM8",
+                            "text": "<b>Flutter</b>로 구축된 크로스플랫폼 이메일 클라이언트로, 이메일 <b>관리</b>를 위한 직관적인 UI를 통해 효율적인 소통을 제공합니다.",
+                            "tags": ["Flutter", "이메일", "소통"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/project-logo-6.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/project-screenshot-6.png",
+                                "images/pictures/project-screenshot-7.png",
+                                "images/pictures/project-screenshot-8.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Stackers",
+                            "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
+                            "tags": ["React", "Organization", "Notes"]
+                        },
+                        "my": {
+                            "title": "Stackers",
+                            "text": "အသုံးပြုသူများအတွက် လုပ်ဆောင်မှုများ၊ မှတ်စုများနှင့် စီမံကိန်းများကို စနစ်တကျ စီစဉ်နိုင်စေပြီး မည်သည့်စက်ပစ္စည်းပေါ်တွင်မဆို အသုံးပြုနိုင်ရန် <b>React Native</b> ဖြင့် ဖန်တီးထားသော အပြည့်အစုံပါဝင်သော ထုတ်လုပ်နိုင်မှု အက်ပ်။ ၎င်းတွင် <b>မိုဃ်းတိမ်သိမ်းဆည်းမှု</b>၊ အသုံးပြုရလွယ်ကူသည့် UI နှင့် ပူးပေါင်းဆောင်ရွက်နိုင်မှု အစွမ်းများပါဝင်သည်။",
+                            "tags": ["React", "Organización", "Notas"]
+                        },
+                        "ja": {
+                            "title": "Stackers",
+                            "text": "<b>React Native</b> で開発された、タスク、ノート、プロジェクトを複数のデバイスで整理できる完全装備の生産性アプリ。<b>クラウド同期</b>、直感的な UI、およびコラボレーション機能を提供します。",
+                            "tags": ["React", "Organisation", "Notes"]
+                        },
+                        "ko": {
+                            "title": "Stackers",
+                            "text": "<b>React Native</b>로 개발된 기능이 풍부한 생산성 앱으로, 사용자가 여러 기기에서 작업, 메모, 프로젝트를 <b>클라우드 동기화</b>와 직관적인 UI로 관리할 수 있습니다.",
+                            "tags": ["React", "조직", "메모"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/project-logo-1.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://cash.com"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "SmartCash",
+                            "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
+                            "tags": ["Next.js", "Finance", "Money"]
+                        },
+                        "my": {
+                            "title": "SmartCash",
+                            "text": "အသုံးပြုသူများကို ဘတ်ဂျက်များကို ကြည့်ရှုနိုင်ပြီး လုပ်ငန်းစီမံခန့်ခွဲမှုများကို ဆွဲဆောင်မှုရှိသောဇယားများနှင့် အချက်အလက်များဖြင့် စီမံခန့်ခွဲနိုင်ရန် <b>Next.js</b> ဖြင့် ဖန်တီးထားသော ငွေကြေးဆိုင်ရာ ဝဘ်ဆိုဒ်။",
+                            "tags": ["Next.js", "Finanzas", "Dinero"]
+                        },
+                        "ja": {
+                            "title": "SmartCash",
+                            "text": "<b>Next.js</b> を使用して構築されたファイナンスウェブサイト。ユーザーは<b>予算を追跡</b>し、インタラクティブなチャートやインサイトを活用してお金を管理できます。",
+                            "tags": ["Next.js", "Finance", "Argent"]
+                        },
+                        "ko": {
+                            "title": "SmartCash",
+                            "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
+                            "tags": ["Next.js", "금융", "돈"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/project-logo-2.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Snappy",
+                            "text": "A powerful photography app designed with <b>Swift</b> for iOS and Android, featuring <b>advanced camera controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
+                            "tags": ["Swift", "Photography", "Camera"]
+                        },
+                        "my": {
+                            "title": "Snappy",
+                            "text": "iOS နှင့် Android အတွက် <b>Swift</b> ဖြင့် ဒီဇိုင်းထုတ်ထားသော အားကောင်းသော ဓာတ်ပုံရိုက်ကူးခြင်း အက်ပ်ဖြစ်ပြီး၊ <b>ကင်မရာထိန်းချုပ်မှု အဆင့်မြင့်</b>၊ တည်းဖြတ်ရေးကိရိယာများနှင့် ဓာတ်ပုံများကို မြန်ဆန်စွာ တိုးတက်အောင်ဆောင်ရွက်ရန် AI အခြေပြုစိစစ်မှုများ ပါဝင်သည်။",
+                            "tags": ["Swift", "Photography", "Camera"]
+                        },
+                        "ja": {
+                            "title": "Snappy",
+                            "text": "iOS および Android 向けに <b>Swift</b> で設計された強力な写真アプリ。<b>高度なカメラコントロール</b>、編集ツール、AI 搭載のフィルターによる迅速な写真強化機能を備えています。",
+                            "tags": ["Swift", "Photography", "Camera"]
+                        },
+                        "ko": {
+                            "title": "Snappy",
+                            "text": "<b>Swift</b>로 설계된 강력한 사진 앱으로, iOS 및 Android에서 <b>고급 카메라 제어</b>, 편집 도구, AI 기반 필터를 통해 빠르게 사진을 보정할 수 있습니다.",
+                            "tags": ["Swift", "사진", "카메라"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/project-logo-5.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://sweetscoops.com"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Sweet Scoops",
+                            "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
+                            "tags": ["WooCommerce", "Food", "Desserts"]
+                        },
+                        "my": {
+                            "title": "Sweet Scoops",
+                            "text": "<b>WordPress</b> နှင့် WooCommerce ဖြင့် ဖန်တီးထားသော မုန့်နှင့်မုန့်ဖုတ်ဆိုင်ရာ ကဏ္ဍများပါဝင်သော အရသာပြည့်ဝသော <b>မုန့်ဟင်းချက်နည်းများ</b> စုစည်းမှုနှင့် အီးလက်ထရောနစ်ကူးသန်းရောင်းဝယ်ရေး စနစ် ပါဝင်သည့် စားဖွယ်ရာ ဝဘ်ဆိုဒ်။",
+                            "tags": ["WooCommerce", "အစားအစာ", "မုန့်များ"] 
+                        },
+                        "ja": {
+                            "title": "Sweet Scoops",
+                            "text": "<b>WordPress</b> と WooCommerce を使用して構築されたレシピウェブサイト。<b>デザートレシピ</b> の豊富なコレクションと統合された e コマースプラットフォームを備えています。", 
+                            "tags": ["WooCommerce", "料理", "デザート"]
+                        },
+                        "ko": {
+                            "title": "Sweet Scoops",
+                            "text": "<b>WordPress</b>와 WooCommerce로 구축된 레시피 웹사이트로, 풍부한 <b>디저트 레시피</b> 모음과 통합된 전자상거래 플랫폼을 제공합니다.",
+                            "tags": ["WooCommerce", "음식", "디저트"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-guitar",
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://rockverse.com"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "RockVerse",
+                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
+                            "tags": ["Django", "Music", "Rock"]
+                        },
+                        "my": {
+                            "title": "RockVerse",
+                            "text": "<b>Django</b> ဖြင့် ဖန်တီးထားသော တက်ကြွသော ဂီတနှင့် ဖျော်ဖြေရေး ဝဘ်ဆိုဒ်ဖြစ်ပြီး၊ ရော့ခ်ဂီတ သတင်းများ၊ ပွဲအစီအစဉ်များနှင့် <b>စတရိမ်းအကြောင်းအရာများ</b> ပြသပါသည်။",
+                            "tags": ["Django", "ဂီတ", "ရော့ခ်"]
+                        },
+                        "ja": {
+                            "title": "RockVerse",
+                            "text": "<b>Django</b> を使用して開発されたダイナミックな音楽およびエンターテインメントのウェブサイト。ロックミュージックのニュース、イベント、および <b>ストリーミングコンテンツ</b> を紹介しています。",
+                            "tags": ["Django", "音楽", "ロック"] 
+                        },
+                        "ko": {
+                            "title": "RockVerse",
+                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
+                            "tags": ["Django", "음악", "록"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/project-logo-4.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Soccer Analytics",
+                            "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
+                            "tags": ["AI", "Prediction", "Soccer"]
+                        },
+                        "my": {
+                            "title": "Soccer Analytics",
+                            "text": "<b>Python</b> နှင့် <b>TensorFlow</b> ဖြင့် ဖန်တီးထားသော AI အခြေပြု အားကစားအနက်လေးနက်မှု စင်တင်ပလက်ဖောင်းဖြစ်ပြီး၊ အသေးစိတ် ဘောလုံး <b>ခန့်မှန်းချက်များ</b>နှင့် အဖွဲ့စီမံခန့်ခွဲမှုကိရိယာများ ပံ့ပိုးပေးသည်။",
+                            "tags": ["AI", "ခန့်မှန်းချက်", "ဘောလုံး"]
+                        },
+                        "ja": {
+                            "title": "Soccer Analytics",
+                            "text": "<b>Python</b> と <b>TensorFlow</b> を使用して構築された AI 搭載のスポーツ分析プラットフォームで、詳細なサッカー <b>予測</b> とチーム管理ツールを提供します。", 
+                            "tags": ["AI", "予測", "サッカー"]
+                        },
+                        "ko": {
+                            "title": "Soccer Analytics",
+                            "text": "<b>Python</b> 및 <b>TensorFlow</b>로 구축된 AI 기반 스포츠 분석 플랫폼으로, 축구에 대한 <b>예측</b> 및 팀 관리 도구를 제공합니다.",
+                            "tags": ["AI", "예측", "축구"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "",
+                        "fa": "fa-solid fa-truck-fast",
+                        "faColors": {"bg": "#007396", "fill": "#EEE"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"},
+                        {"faIcon": "fa-brands fa-windows", "href": "https://windows.com"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "QuickDrop",
+                            "text": "A cross-platform delivery app built with <b>React Native</b> and a <b>Node.js backend</b>, featuring <b>real-time tracking</b> and seamless integration with multiple platforms.",
+                            "tags": ["React Native", "Delivery", "Real-Time Tracking"]
+                        },
+                        "my": {
+                            "title": "QuickDrop",
+                            "text": "<b>React Native</b> နှင့် <b>Node.js backend</b> ဖြင့် ဖန်တီးထားသော မည်သည့်စနစ်ပေါ်တွင်မဆို အသုံးပြုနိုင်သောပို့ဆောင်ရေးအက်ပ် ဖြစ်ပြီး၊ <b>အချိန်နှင့်တပြေးညီ ရှာဖွေမှု</b> နှင့် အများစနစ်များနှင့် သက်ဆိုင်မှု ပြီးပြည့်စုံစွာ ပေါင်းစပ်မှုတို့ ပါဝင်သည်။",
+                            "tags": ["React Native", "ပို့ဆောင်ရေး", "အချိန်နှင့်တပြေးညီ ရှာဖွေမှု"] 
+                        },
+                        "ja": {
+                            "title": "QuickDrop",
+                            "text": "<b>React Native</b> と <b>Node.js バックエンド</b> を使用して構築されたクロスプラットフォームの配達アプリ。<b>リアルタイム追跡</b> と複数のプラットフォームとのシームレスな統合機能を備えています。",
+                            "tags": ["React Native", "配達", "リアルタイム追跡"]
+                        },
+                        "ko": {
+                            "title": "QuickDrop",
+                            "text": "<b>React Native</b>와 <b>Node.js</b> 백엔드로 구축된 크로스플랫폼 배송 앱으로, <b>실시간 추적</b> 및 여러 플랫폼과의 원활한 통합을 제공합니다.",
+                            "tags": ["React Native", "배송", "실시간 추적"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

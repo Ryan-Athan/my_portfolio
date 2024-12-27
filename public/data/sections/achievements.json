@@ -1,0 +1,440 @@
+{
+    "locales": {
+        "en": {
+            "title": "Awards",
+            "title_menu": "Achievements",
+            "title_long_prefix": "Here are my",
+            "title_long": "Career **Achievements**"
+        },
+
+        "my": {
+            "title": "Logros",
+            "title_menu": "သင်တန်းအောင်မြင်မူ",
+            "title_long_prefix": "ဒါတွေကတော့",
+            "title_long": "ကျွန်တော် **Career** အတွက် ကြိုးစားအားထုတ်မူတွေပဲ ဖြစ်ပါတယ်။"
+        },
+
+        "ja": {
+            "title": "業績",
+            "title_menu": "業績",
+            "title_long_prefix": "こちらは私の",
+            "title_long": "キャリアの**業績**"
+        },
+
+        "ko": {
+            "title": "경력 성과",
+            "title_menu": "경력 성과",
+            "title_long_prefix": "다음은",
+            "title_long": "**경력 성과**입니다"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": { "title": "Certifications" },
+                "my": { "title": "သင်တန်းအောင်လက်မှတ်များ" },
+                "ja": { "title": "認証" },
+                "ko": { "title": "인증서" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-life-ring",
+                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "12/01/2020",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.linuxfoundation.org/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "The **Linux Foundation**",
+                            "text": "Data Land Technology (DLT)"
+                        },
+                        "my": {
+                            "text": "Data Land Technology (DLT)"
+                        },
+                        "ja": {
+                            "text": "データランドテクノロジー (DLT)"
+                        },
+                        "ko": {
+                            "text": "인증된 쿠버네티스 관리자 (CKA)"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-aws",
+                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                    },
+                    "dates": {
+                        "start": "05/05/2021",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.aws.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Laravel** Framework Batch_2",
+                            "text": "Data Land Technology (DLT)"
+                        },
+                        "my": {
+                            "text": "Data Land Technology (DLT)"
+                        },
+                        "ja": {
+                            "text": "データランドテクノロジー (DLT)"
+                        },
+                        "ko": {
+                            "text": "AWS 인증 솔루션 아키텍트 – 어소시에이트"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-java",
+                        "faColors": {"bg": "#007396", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "05/05/2022",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.oracle.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**JavaScript** Small App Course Batch_6",
+                            "text": "Data Land Technology (DLT)"
+                        },
+                        "my": {
+                            "text": "Data Land Technology (DLT)"
+                        },
+                        "ja": {
+                            "text": "データランドテクノロジー (DLT)"
+                        },
+                        "ko": {
+                            "text": "인증된 자바 개발자"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "08/15/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.mongodb.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Mysql** Database Batch_4",
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "my": {
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "ja": {
+                            "text": "データランドテクノロジー (DLT)"
+                        },
+                        "ko": {
+                            "text": "몽고디비 인증 개발자"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "08/15/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.mongodb.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Bootstrap ** Project Batch_4",
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "my": {
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "ja": {
+                            "text": "データランドテクノロジー (DLT)"
+                        },
+                        "ko": {
+                            "text": "몽고디비 인증 개발자"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "08/15/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.mongodb.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Tailwind** CSS Batch_2",
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "my": {
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "ja": {
+                            "text": "データランドテクノロジー (DLT)"
+                        },
+                        "ko": {
+                            "text": "몽고디비 인증 개발자"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "08/15/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.mongodb.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**jQuery** Batch_4",
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "my": {
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "ja": {
+                            "text": "データランドテクノロジー (DLT)"
+                        },
+                        "ko": {
+                            "text": "몽고디비 인증 개발자"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "08/15/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.mongodb.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**PHP Classic & OOP** Course Batch_4",
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "my": {
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "ja": {
+                            "text": "データランドテクノロジー (DLT)"
+                        },
+                        "ko": {
+                            "text": "몽고디비 인증 개발자"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "08/15/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.mongodb.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**CSS 3** Intermediate Class Batch_6",
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "my": {
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "ja": {
+                            "text": "データランドテクノロジー (DLT)"
+                        },
+                        "ko": {
+                            "text": "몽고디비 인증 개발자"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "08/15/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.mongodb.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**JSON** Btach_2",
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "my": {
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "ja": {
+                            "text": "データランドテクノロジー (DLT)"
+                        },
+                        "ko": {
+                            "text": "몽고디비 인증 개발자"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "08/15/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.mongodb.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Python** Intensive Course",
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "my": {
+                             "text": "Data Land Technology (DLT)"
+                        },
+                        "ja": {
+                            "text": "データランドテクノロジー (DLT)"
+                        },
+                        "ko": {
+                            "text": "몽고디비 인증 개발자"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "08/15/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.mongodb.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Python** for Everybody",
+                             "text": "University of Michigan"
+                        },
+                        "my": {
+                             "text": "University of Michigan"
+                        },
+                        "ja": {
+                            "text": "ミシガン大学"
+                        },
+                        "ko": {
+                            "text": "몽고디비 인증 개발자"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "awards",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Awards" },
+                "my": { "title": "ရရှိခဲ့သော ဆုများ" },
+                "ja": { "title": "受賞歴" },
+                "ko": { "title": "수상 내역" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "09/01/2019",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**Best Final Year Project** – Backend Optimization",
+                            "info": "Coursea",
+                            "text": "Recognized for innovative work on optimizing backend systems for cloud environments, achieving significant performance improvements."
+                        },
+                        "my": {
+                            "title": "**Best Final Year Project** – နောက်ခံစနစ်များတိုးတက်စေခြင်း",
+                            "info": "Coursea",
+                            "text": "Cloud ပတ်ဝန်းကျင်များအတွက် နောက်ခံစနစ်များကို အာရုံစိုက်ပြီး စွမ်းဆောင်ရည်တိုးတက်မှု အထင်ရှားစွာရရှိစေခဲ့သည့် သက်တမ်းရှည်မူပိုင်မှုအတွက် ချီးမြှောက်ခံရသည်။"
+                        },
+                        "ja": {
+                            "title": "**最高の卒業制作プロジェクト** – バックエンド最適化",
+                            "info": "Coursea",
+                            "text": "クラウド環境のバックエンドシステムを最適化し、目覚ましいパフォーマンス向上を達成した革新的な取り組みが評価されました。"
+                        },
+                        "ko": {
+                            "title": "**최우수 졸업 프로젝트** – 백엔드 최적화",
+                            "info": "MIT",
+                            "text": "클라우드 환경에서 백엔드 시스템을 최적화한 혁신적인 작업으로 성능을 크게 개선한 것으로 인정받았습니다."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

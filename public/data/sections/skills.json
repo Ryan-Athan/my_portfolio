@@ -1,0 +1,489 @@
+{
+    "locales": {
+        "en": {
+            "title": "Skills",
+            "title_long_prefix": "Explore",
+            "title_long": "My **Skill Set**"
+        },
+
+        "my": {
+            "title": "အရည်အချင်း",
+            "title_long_prefix": "ဒါကတော့",
+            "title_long": "ကျွန်တာ်ရဲ့ **ကျွမ်းကျင်မူ skills တွေပါ။**"
+        },
+
+        "ja": {
+            "title": "資格",
+            "title_long_prefix": "これは",
+            "title_long": "私の**スキル**です。"
+        },
+
+        "ko": {
+            "title": "스킬",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**스킬**입니다"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "capabilities",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-table-columns",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Website** design",
+                            "text": "I can bring your best ideas into life!"
+                        },
+                        "my": {
+                            "title": "**Website** design",
+                            "text": "ကျွန်တော်က website design ကို idea ကောင်းကောင်းနှင့် ဖန်းတီးရေးဆွဲနိုင်ပါတယ်။"
+                        },
+                        "ja": {
+                            "title": "**ウェブサイト**デザイン",
+                            "text": "あなたの最高のアイデアを形にします！"
+                        },
+                        "ko": {
+                            "title": "**웹사이트** 디자인",
+                            "text": "당신의 최고의 아이디어를 실현시킬 수 있습니다!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Database** management",
+                            "text": "I can handle your data effectively!"
+                        },
+                        "my": {
+                            "title": "**Database** စီမံခန့်ခွဲခြင်း",
+                            "text": "ကျွန်တော်က data တွေကို ကောင်းကောင်း ကိုင်တွယ်ဖြေရှင်းနိုင်ပါတယ်။"
+                        },
+                        "ja": {
+                            "title": "**データベース**管理",
+                            "text": "データを効率的に管理できます！"
+                        },
+                        "ko": {
+                            "title": "**데이터베이스** 관리",
+                            "text": "데이터를 효과적으로 처리할 수 있습니다!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-mobile-screen-button",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Website** building & **Web App** development",
+                            "text": "I can create responsive websites and powerful web applications!"
+                        },
+                        "my": {
+                            "title": "**Website** ဖန်တီးခြင်းနှင့် **Web App** တီထွင်ခြင်း",
+                            "text": "ကျွန်တော် responsive ဝက်ဘ်ဆိုဒ်များနှင့် web applications တွေ ဖန်တီးပေးနိုင်ပါတယ်!"
+                        },
+                        "ja": {
+                            "title": "**ウェブサイト**作成と**Webアプリ**開発",
+                            "text": "レスポンシブなウェブサイトと強力なWebアプリを作成できます！"
+                        },
+                        "ko": {
+                            "title": "**앱** 제작",
+                            "text": "창의적이고 혁신적인 앱을 만들 수 있습니다!"
+                        }
+                    }
+                }
+            ]
+
+        },
+
+        {
+            "id": "backend_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Backend"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-node-js",
+                        "faColors": {"bg": "#339933", "fill": "#EEE"}
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "01/15/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Node.js",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {"bg": "#306998", "fill": "#EEE"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/20/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Python 3.x",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#4479A1", "fill": "#EEE"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "10/10/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-docker",
+                        "faColors": {"bg": "#2496ED", "fill": "#EEE"}
+                    },
+                    "value": 60,
+                    "dates": {
+                        "start": "04/15/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Docker",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-php",
+                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "09/01/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "PHP 8.0+",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-laravel",
+                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "07/10/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Laravel",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-server",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "value": 50,
+                    "dates": {
+                        "start": "05/20/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-git",
+                        "faColors": {"bg": "#F05032", "fill": "#111"}
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "01/01/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Git",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "front_end_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Frontend"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-html5",
+                        "faColors": {"bg": "#E34F26", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "09/01/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "HTML5",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-css3",
+                        "faColors": {"bg": "#1572B6", "fill": "#EEE"}
+                    },
+                    "value": 65,
+                    "dates": {
+                        "start": "01/15/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "CSS3",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-js",
+                        "faColors": {"bg": "#F7DF1E", "fill": "#111"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "03/10/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript ES6+",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-react",
+                        "faColors": {"bg": "#61DAFB", "fill": "#111"}
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "06/20/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "React",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-vuejs",
+                        "faColors": {"bg": "#4FC08D", "fill": "#111"}
+                    },
+                    "value": 40,
+                    "dates": {
+                        "start": "08/30/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Vue.js",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-bootstrap",
+                        "faColors": {"bg": "#7952B3", "fill": "#EEE"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "02/10/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Bootstrap",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "languages",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": { "title": "Languages" },
+                "my": { "title": "Languages" },
+                "ja": { "title": "言語" },
+                "ko": { "title": "언어" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/flags/en.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "info": "Fluent in both spoken and written French; confident in professional communication.",
+                            "tags": ["Upper Intermediate Level"]
+                        },
+                        "my": {
+                            "title": "အင်္ဂလိပ်ဘာသာစကား",
+                            "info": "အင်္ဂလိပ် ဘာသာစကားကို ကောင်းကောင်း ရေးနိုင်, ဖတ်နိုင်, ပြောနိုင်ပါတယ်။",
+                            "tags": ["Upper Intermediate Level"]
+                        },
+                        "ja": {
+                            "title": "英語",
+                            "info": "英語を上手に読む、書く、話すことができます。",
+                            "tags": ["中上級レベル"]
+                        },
+                        "ko": {
+                            "title": "영어",
+                            "info": "모국어 수준의 의사소통 및 글쓰기 능력을 보유.",
+                            "tags": ["모국어"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/flags/my.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Myanmar(Burmese)",
+                            "info": "Native speaker with excellent communication and writing skills.",
+                            "tags": ["Native"]
+                        },
+                        "my": {
+                            "title": "မြန်မာ(ဗမာ)",
+                            "info": "မြန်မာဘာသာစကားကို ကောင်းစွာ ဆက်သွယ်ရေးနှင့် စာရေးကျွမ်းကျင်မှုနှင့်တူ ပြောနိုင်သူ။",
+                            "tags": ["Native"]
+                        },
+                        "ja": {
+                            "title": "ミャンマー語（ビルマ語)",
+                            "info": "ネイティブスピーカーで、優れたコミュニケーション力と文章力を持っています。",
+                            "tags": ["Native"]
+                        },
+                        "ko": {
+                            "title": "프랑스어",
+                            "info": "구어 및 문어에 유창하며, 전문적인 소통에 자신감이 있음.",
+                            "tags": ["유창"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/flags/ja.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Japanese",
+                            "info": "Intermediate proficiency in Japanese language; can hold conversations and understand written text.",
+                            "tags": ["Intermediate"]
+                        },
+                        "my": {
+                            "title": "ဂျပန်ဘာသာစကား",
+                            "info": "ဂျပန်ဘာသာစကားကို အလယ်အလတ်အဆင့် ကျွမ်းကျင်ပြီး စကားပြောနှင့် စာဖတ်နားလည်မှု အတတ်ရသည်။",
+                            "tags": ["Intermediate"]
+                        },
+                        "ja": {
+                            "title": "日本語",
+                            "info": "日本語に中級レベルの能力があり、会話をしたり文章を理解することができます。",
+                            "tags": ["Intermediate"]
+                        },
+                        "ko": {
+                            "title": "베트남어",
+                            "info": "중간 수준의 베트남어 실력; 대화 가능 및 글을 이해할 수 있음.",
+                            "tags": ["중급"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

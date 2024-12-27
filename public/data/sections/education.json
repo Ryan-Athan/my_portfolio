@@ -1,0 +1,115 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        },
+
+        "my": {
+            "title": "ကျွန်တော်၏ ပညာရေး",
+            "title_long_prefix": "ကျွန်တော်ရဲ့",
+            "title_long": "**ပညာအရည်အချင်း**"
+        },
+
+        "ja": {
+            "title": "私の学歴",
+            "title_long_prefix": "私の",
+            "title_long": "**教育**"
+        },
+
+        "ko": {
+            "title": "교육",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**교육적** 배경"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/nucs.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2024",
+                        "end": "Now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Second Year** in Computer Science",
+                            "info": "National University of Computer Studies (NUCS)",
+                            "text": "Currently pursuing a degree in Computer Science, focusing on algorithms, data structures, software engineering, and web development. Gaining practical experience through coursework and projects.",
+                            "tags": []
+                        },
+                        "my": {
+                            "title": "**ဒုတိယနှစ်** ကွန်ပျူတာ သိပ္ပံ",
+                            "info": "အမျိုးသားကွန်ပျူတာ တက္ကသိုလ် (NUCS)",
+                            "text": "ကွန်ပျူတာ သိပ္ပံဘွဲ့ကို လေ့လာနေပါသည်။ အာလဂိုရစ်သမ်၊ ဒေတာဖွဲ့စည်းမှုများ၊ ဆော့ဖ်ဝဲ အင်ဂျင်နီယာနှင့် ဝဘ်ဖွံ့ဖြိုးတိုးတက်မှုတို့ကို အထူးပြု လေ့လာနေသည်။ အတွေ့အကြုံများ ရရှိစေရန် စီမံချက်များကိုလည်း လုပ်ဆောင်နေပါသည်။",
+                            "tags": null
+                        },
+                        "ja": {
+                            "title": "**2年生** コンピューターサイエンス",
+                            "info": "国立コンピュータ研究大学 (NUCS)",
+                            "text": "コンピューターサイエンスの学位を取得するために学習中です。アルゴリズム、データ構造、ソフトウェア工学、ウェブ開発に重点を置いています。プロジェクトとコースを通じて実践的な経験を積んでいます。",
+                            "tags": null
+                        },
+                        "ko": {
+                            "title": "**학사** 컴퓨터 과학",
+                            "info": "MIT",
+                            "text": "알고리즘, 데이터 구조, 소프트웨어 공학 및 웹 개발에 중점을 둔 컴퓨터 과학 학사 학위를 취득했습니다. 다양한 프로그래밍 프로젝트와 부트캠프를 통해 실무 경험을 쌓았습니다.",
+                            "tags": null
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/mandalay.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2019",
+                        "end": "01/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Second Year** in English Major",
+                            "info": "Mandalay University",
+                            "text": "Currently studying English literature, linguistics, and communication skills. Enhancing expertise through engaging in projects and academic activities.",
+                            "tags": []
+                        },
+                        "my": {
+                            "title": "**ဒုတိယနှစ်** အင်္ဂလိပ်ဘာသာရပ် အထူးပြု",
+                            "info": "မန္တလေး တက္ကသိုလ်",
+                            "text": "အင်္ဂလိပ်စာပေ၊ ဘာသာဗေဒနှင့် ဆက်သွယ်ရေး ကျွမ်းကျင်မှုများကို လေ့လာနေပါသည်။ ပညာရေးဆိုင်ရာ လှုပ်ရှားမှုများနှင့် စီမံချက်များမှတဆင့် လေ့လာနေပါသည်။",
+                            "tags": null
+                        },
+                        "ja": {
+                            "title": "**2年生** 英語学専攻",
+                            "info": "マンダレー大学",
+                            "text": "英文学、言語学、コミュニケーションスキルを学んでいます。プロジェクトや学術活動に参加することで専門性を高めています。",
+                            "tags": null
+                        },
+                        "ko": {
+                            "title": "PHP 개발 **나노디그리**",
+                            "info": "Udacity",
+                            "text": "PHP 개발에 중점을 둔 집중 나노디그리 프로그램을 완료하여 백엔드 프로그래밍, 데이터베이스 관리 및 웹 애플리케이션 배포와 같은 필수 기술을 배웠습니다. 이 과정은 현대 PHP 실무에 대한 탄탄한 기초를 제공했습니다.",
+                            "tags": null
+                        }
+                    }
+                }           
+                
+            ]
+        }
+    ]
+}
