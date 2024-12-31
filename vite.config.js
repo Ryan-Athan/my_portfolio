@@ -15,4 +15,9 @@ export default defineConfig({
   build: {
     outDir: 'dist', // Render will look for 'dist' by default
   },
+  server: {
+    headers: {
+      'Content-Type': 'text/css',
+    },
+  },
 });
