@@ -35,13 +35,13 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/place-7.png",
+                        "img": "images/pictures/web.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "03/01/2016",
-                        "end": "06/01/2018"
+                        "start": "03/01/2021",
+                        "end": "now"
                     },
                     "locales": {
                         "en": {
@@ -72,13 +72,13 @@
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/place-3.png",
+                        "img": "images/pictures/python.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "06/01/2018",
-                        "end": "12/01/2020"
+                        "start": "06/01/2021",
+                        "end": "now"
                     },
                     "locales": {
                         "en": {
@@ -109,13 +109,13 @@
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/place-1.png",
+                        "img": "images/pictures/php.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "12/01/2020",
-                        "end": "11/01/2022"
+                        "start": "12/01/2022",
+                        "end": "11/01/2023"
                     },
                     "locales": {
                         "en": {
@@ -146,8 +146,8 @@
                 },
                 {
                     "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-apple",
+                        "img": "images/pictures/JS.png",
+                        "fa": "",
                         "faColors": {"bg": "#111", "fill": "#EEE"}
                     },
                     "dates": {
