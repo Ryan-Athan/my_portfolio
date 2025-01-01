@@ -72,7 +72,7 @@
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/python.png",
+                        "img": "images/pictures/python1.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -109,7 +109,7 @@
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/php.png",
+                        "img": "images/pictures/php1.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
